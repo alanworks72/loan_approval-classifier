@@ -1,2 +1,6 @@
 # loan_approval-classifier
-Loan Approval Classifier
+
+**본 프로젝트는 Random Forest 알고리즘 기반의 대출 심사 분석 및 예측기이며,**<br> 
+**XAI 실습을 위해 가상의 시나리오를 바탕으로 제작한 토이 프로젝트이다.**
+<br>
+※ 본 프로젝트에 사용된 데이터는 시나리오를 바탕으로 생성한 허구이며, 활용된 대출 심사 조건 또한 가상의 조건이다.

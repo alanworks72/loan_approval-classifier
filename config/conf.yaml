@@ -1,0 +1,2 @@
+train_file: data/loan_approval.csv
+test_file: data/loan_approval_test.csv

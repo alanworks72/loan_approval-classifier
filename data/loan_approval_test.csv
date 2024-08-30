@@ -1,0 +1,1001 @@
+Id,Credit Score,Income,Employment Status,Debt-to-Income Ratio,Loan Amount,Loan Purpose,Marital Status,Number of Dependents,Residence Status,Previous Loan History,Bank Account Balance,Education Level,Existing Loan Balance,Maximum Loan Limit,Loan Approval Status
+0,668,123585,Employed,0.357,110865,Education,Single,1,Living with Parents,Defaulted,1371,Bachelor,11350.128837493272,40246,0
+1,738,36231,Employed,0.286,22862,Home Purchase,Single,0,Living with Parents,Paid in Full,819,Bachelor,0.0,16711,1
+2,584,39303,Employed,0.16,165578,Car Purchase,Divorced,0,Renter,No Previous Loan,5208,Bachelor,0.0,14345,0
+3,693,43839,Employed,0.138,896,Home Purchase,Married,2,Living with Parents,Paid in Full,584,Bachelor,0.0,18987,1
+4,678,22216,Employed,0.161,14918,Home Purchase,Single,0,Living with Parents,Paid in Full,1194,Bachelor,0.0,9414,0
+5,634,102470,Employed,0.117,10922,Personal Expenses,Married,2,Renter,Paid in Full,407,Bachelor,0.0,40603,1
+6,643,23361,Employed,0.31,40243,Education,Married,1,Renter,No Previous Loan,323,Bachelor,0.0,9388,0
+7,451,43666,Employed,0.314,8941,Home Purchase,Divorced,1,Renter,No Previous Loan,569,High School,0.0,12308,0
+8,541,0,Unemployed,0.214,15659,Personal Expenses,Divorced,1,Renter,No Previous Loan,3093,High School,0.0,0,0
+9,794,101265,Employed,0.14,7913,Education,Single,1,Owner,No Previous Loan,1133,High School,0.0,50252,1
+10,649,80041,Employed,0.119,13773,Home Purchase,Married,1,Living with Parents,No Previous Loan,1805,Master or above,0.0,32466,1
+11,746,104347,Employed,0.1,13997,Car Purchase,Married,1,Owner,Paid in Full,205,Master or above,0.0,48651,1
+12,785,96226,Employed,0.194,17381,Education,Married,2,Living with Parents,Paid in Full,2478,High School,0.0,47210,1
+13,672,29337,Employed,0.391,38912,Home Purchase,Married,4,Owner,Paid in Full,2485,High School,0.0,12321,0
+14,730,175372,Employed,0.174,82257,Personal Expenses,Single,1,Renter,Paid in Full,1106,Bachelor,0.0,80013,1
+15,800,91895,Employed,0.176,61718,Home Purchase,Divorced,1,Owner,Paid in Full,1084,Bachelor,0.0,45947,1
+16,758,33443,Self-employed,0.291,32185,Personal Expenses,Married,1,Living with Parents,Paid in Full,519,Bachelor,0.0,15843,0
+17,621,44840,Employed,0.192,9649,Education,Married,1,Renter,Paid in Full,162,High School,1554.7474070334247,15848,0
+18,800,83319,Self-employed,0.294,4940,Car Purchase,Single,1,Renter,Paid in Full,101,Bachelor,2573.6712563020496,39085,1
+19,710,94962,Employed,0.137,90993,Personal Expenses,Single,1,Renter,Paid in Full,4595,Bachelor,0.0,42139,1
+20,618,48159,Employed,0.4,12072,Home Purchase,Married,1,Owner,Defaulted,2754,High School,57997.51542094916,0,0
+21,714,62864,Self-employed,0.223,8917,Car Purchase,Single,3,Living with Parents,No Previous Loan,171,Bachelor,0.0,28053,1
+22,580,127829,Employed,0.125,15695,Personal Expenses,Married,1,Renter,No Previous Loan,1390,Bachelor,0.0,46338,1
+23,586,50788,Employed,0.1,39641,Home Purchase,Single,0,Renter,No Previous Loan,1120,Bachelor,0.0,18601,0
+24,800,52048,Employed,0.326,8776,Education,Single,0,Renter,No Previous Loan,1282,High School,0.0,26024,1
+25,737,29590,Employed,0.246,24676,Personal Expenses,Single,0,Living with Parents,No Previous Loan,276,Bachelor,0.0,13629,1
+26,785,62689,Employed,0.187,45311,Personal Expenses,Married,3,Renter,No Previous Loan,4236,High School,0.0,30756,1
+27,600,33030,Employed,0.234,43348,Education,Married,2,Renter,No Previous Loan,655,High School,0.0,12386,0
+28,481,45010,Employed,0.299,9643,Personal Expenses,Married,2,Renter,No Previous Loan,339,Master or above,0.0,13531,0
+29,777,52903,Self-employed,0.1,6734,Home Purchase,Married,2,Renter,No Previous Loan,1106,High School,0.0,25691,0
+30,647,58036,Employed,0.242,7887,Personal Expenses,Single,1,Renter,No Previous Loan,1083,High School,0.0,23468,0
+31,694,36687,Employed,0.292,179077,Home Purchase,Married,1,Owner,No Previous Loan,639,Bachelor,0.0,15912,1
+32,612,67312,Employed,0.265,4413,Education,Single,2,Renter,No Previous Loan,154,High School,0.0,25746,1
+33,585,53092,Employed,0.141,6192,Personal Expenses,Single,0,Renter,No Previous Loan,1985,High School,0.0,19411,0
+34,624,0,Unemployed,0.194,12025,Car Purchase,Single,0,Renter,No Previous Loan,1057,Bachelor,0.0,0,0
+35,742,69561,Employed,0.229,50450,Car Purchase,Single,1,Owner,Defaulted,732,Master or above,14270.287558728018,17988,1
+36,602,48756,Employed,0.152,5916,Personal Expenses,Married,1,Owner,Defaulted,4608,Bachelor,33850.695631324386,0,0
+37,692,69177,Self-employed,0.204,9693,Education,Married,1,Renter,Paid in Full,2332,Bachelor,0.0,29919,1
+38,769,181203,Self-employed,0.1,32957,Car Purchase,Married,3,Owner,No Previous Loan,4669,High School,0.0,87090,1
+39,605,32194,Employed,0.1,13336,Home Purchase,Single,0,Renter,Paid in Full,1889,High School,0.0,12173,0
+40,625,81230,Employed,0.176,4411,Personal Expenses,Single,1,Living with Parents,Defaulted,4447,Master or above,134610.68212168285,0,1
+41,721,42113,Self-employed,0.14,3400,Home Purchase,Married,2,Owner,No Previous Loan,2266,Bachelor,0.0,18977,1
+42,697,117255,Employed,0.273,35986,Home Purchase,Divorced,1,Renter,No Previous Loan,1808,High School,0.0,51079,1
+43,786,45854,Employed,0.194,18573,Home Purchase,Single,3,Owner,Paid in Full,461,Bachelor,2196.021502736079,20329,1
+44,725,150242,Employed,0.118,82163,Home Purchase,Married,1,Renter,Paid in Full,1825,High School,0.0,68078,1
+45,560,136344,Employed,0.106,27588,Education,Single,2,Renter,No Previous Loan,182,High School,0.0,47720,1
+46,626,40809,Self-employed,0.1,11969,Education,Single,2,Living with Parents,No Previous Loan,411,High School,0.0,15966,0
+47,565,46483,Self-employed,0.197,8793,Home Purchase,Married,2,Renter,Defaulted,1075,Bachelor,12569.781464465872,3844,0
+48,800,63390,Employed,0.121,7406,Personal Expenses,Single,2,Living with Parents,No Previous Loan,1806,High School,0.0,31695,1
+49,757,39905,Employed,0.1,11840,Home Purchase,Married,2,Living with Parents,No Previous Loan,1831,Bachelor,0.0,18880,1
+50,694,75625,Employed,0.1,6612,Home Purchase,Married,2,Renter,No Previous Loan,524,Bachelor,0.0,32802,1
+51,501,0,Unemployed,0.103,12926,Personal Expenses,Single,2,Renter,Paid in Full,698,Master or above,0.0,0,0
+52,704,80116,Employed,0.198,14866,Home Purchase,Single,0,Living with Parents,Paid in Full,637,Bachelor,1148.5893227009035,34102,1
+53,584,32728,Employed,0.228,2106,Education,Married,3,Renter,No Previous Loan,1163,Bachelor,0.0,11945,0
+54,598,89447,Employed,0.1,11252,Home Purchase,Married,2,Living with Parents,No Previous Loan,3615,High School,0.0,33430,1
+55,774,51788,Employed,0.179,11167,Car Purchase,Married,3,Renter,Defaulted,340,Bachelor,3146.874697523948,21905,1
+56,800,84904,Employed,0.1,91417,Car Purchase,Married,1,Renter,Paid in Full,2267,Bachelor,0.0,42452,1
+57,782,79172,Employed,0.1,54273,Personal Expenses,Married,2,Renter,Paid in Full,149,Master or above,0.0,38695,1
+58,610,0,Unemployed,0.275,8569,Personal Expenses,Single,1,Renter,Paid in Full,1966,High School,0.0,0,0
+59,728,142405,Employed,0.176,26202,Education,Single,1,Owner,Paid in Full,1107,High School,2140.604987241305,62653,1
+60,568,39733,Self-employed,0.308,23272,Car Purchase,Married,1,Living with Parents,No Previous Loan,1314,Bachelor,0.0,14105,0
+61,581,0,Unemployed,0.267,24536,Home Purchase,Married,3,Renter,Paid in Full,748,High School,0.0,0,0
+62,577,99919,Self-employed,0.143,50425,Personal Expenses,Married,3,Renter,No Previous Loan,3628,Master or above,0.0,36033,0
+63,686,60870,Self-employed,0.158,6948,Education,Single,0,Renter,Paid in Full,1005,High School,0.0,26098,1
+64,761,68499,Employed,0.14,3988,Personal Expenses,Single,0,Renter,No Previous Loan,514,Master or above,0.0,32579,1
+65,608,22423,Employed,0.26,3742,Home Purchase,Single,2,Renter,No Previous Loan,1814,Bachelor,0.0,8520,0
+66,678,55631,Employed,0.1,18119,Car Purchase,Married,1,Renter,No Previous Loan,1630,Master or above,0.0,23573,0
+67,800,68636,Employed,0.302,103144,Personal Expenses,Married,2,Renter,No Previous Loan,874,Bachelor,0.0,34318,1
+68,795,86373,Employed,0.233,7597,Education,Married,2,Owner,No Previous Loan,1748,High School,0.0,42916,1
+69,591,243988,Employed,0.247,59966,Home Purchase,Single,3,Living with Parents,No Previous Loan,220,High School,0.0,90123,1
+70,396,45618,Employed,0.384,61240,Car Purchase,Divorced,2,Renter,Defaulted,1603,High School,7336.382623175984,3954,0
+71,785,105018,Employed,0.195,21030,Car Purchase,Married,2,Renter,Paid in Full,1521,Master or above,0.0,51524,1
+72,703,153056,Employed,0.1,17004,Car Purchase,Married,2,Renter,Paid in Full,389,Bachelor,0.0,67248,1
+73,752,116865,Employed,0.4,25275,Personal Expenses,Married,3,Renter,No Previous Loan,273,Bachelor,0.0,54926,1
+74,530,64666,Employed,0.131,64270,Car Purchase,Single,0,Living with Parents,Defaulted,646,High School,17538.660067044682,3881,0
+75,577,82570,Employed,0.1,18651,Education,Single,1,Renter,No Previous Loan,225,Master or above,0.0,29776,1
+76,800,117221,Employed,0.334,27331,Car Purchase,Single,2,Owner,No Previous Loan,2023,High School,0.0,58610,1
+77,693,19855,Self-employed,0.284,37291,Personal Expenses,Single,1,Renter,Paid in Full,449,High School,0.0,8599,0
+78,608,63630,Self-employed,0.172,15190,Personal Expenses,Single,0,Owner,Paid in Full,322,Master or above,0.0,24179,1
+79,770,20502,Employed,0.177,3933,Home Purchase,Married,2,Owner,No Previous Loan,2185,High School,0.0,9866,1
+80,624,26559,Employed,0.377,32112,Education,Single,0,Renter,No Previous Loan,8958,High School,0.0,10358,0
+81,756,162010,Employed,0.316,9494,Car Purchase,Single,0,Owner,No Previous Loan,698,High School,0.0,76549,1
+82,722,47306,Employed,0.194,29634,Education,Single,1,Living with Parents,No Previous Loan,1396,High School,0.0,21346,1
+83,521,52976,Self-employed,0.286,24848,Personal Expenses,Married,4,Renter,Paid in Full,550,High School,0.0,17250,0
+84,667,55745,Employed,0.1,57730,Education,Married,1,Renter,Defaulted,570,Bachelor,5888.213109470328,17350,0
+85,721,52993,Employed,0.304,5208,Home Purchase,Married,1,Renter,No Previous Loan,125,Master or above,0.0,23879,1
+86,491,95896,Self-employed,0.196,5541,Car Purchase,Single,1,Living with Parents,Paid in Full,1687,Bachelor,0.0,29428,0
+87,426,38695,Self-employed,0.25,37121,Personal Expenses,Single,0,Living with Parents,Defaulted,2279,Bachelor,17521.103972583376,0,0
+88,800,78680,Employed,0.254,31075,Car Purchase,Single,0,Owner,Paid in Full,1577,Bachelor,0.0,39340,1
+89,696,0,Unemployed,0.2,32890,Home Purchase,Married,2,Renter,Paid in Full,561,Bachelor,0.0,0,0
+90,517,45703,Employed,0.3,4686,Personal Expenses,Single,1,Renter,No Previous Loan,1694,Master or above,0.0,14767,0
+91,533,66681,Employed,0.176,12893,Personal Expenses,Divorced,0,Renter,Defaulted,632,High School,352.49247165159505,21860,1
+92,800,51595,Employed,0.1,6427,Car Purchase,Single,3,Owner,No Previous Loan,726,Bachelor,0.0,25797,1
+93,700,64934,Employed,0.18,2710,Car Purchase,Married,1,Renter,Paid in Full,1261,Bachelor,0.0,28408,1
+94,477,78144,Employed,0.128,32532,Personal Expenses,Single,0,Renter,Defaulted,1434,High School,1738.7024974845738,21557,1
+95,405,33380,Employed,0.2,36402,Home Purchase,Single,1,Living with Parents,No Previous Loan,222,High School,0.0,8449,0
+96,521,88211,Self-employed,0.218,17860,Education,Married,2,Renter,Paid in Full,895,Master or above,1288.2373237487225,27435,1
+97,800,23657,Employed,0.1,14817,Personal Expenses,Single,2,Owner,Paid in Full,52,Master or above,0.0,11828,1
+98,720,20951,Employed,0.191,215408,Car Purchase,Single,2,Renter,Paid in Full,2538,Master or above,1321.3468679012306,8106,1
+99,780,131677,Employed,0.1,7218,Education,Single,2,Renter,No Previous Loan,611,Master or above,0.0,64192,1
+100,800,118034,Employed,0.211,6462,Home Purchase,Single,0,Owner,Paid in Full,614,Master or above,0.0,59017,1
+101,725,154470,Employed,0.319,52041,Personal Expenses,Married,1,Renter,No Previous Loan,401,Bachelor,0.0,69994,1
+102,688,40797,Employed,0.4,4917,Education,Married,1,Renter,No Previous Loan,1674,Bachelor,0.0,17542,1
+103,532,109359,Employed,0.136,4123,Education,Single,1,Renter,Paid in Full,168,High School,0.0,36361,1
+104,719,54059,Employed,0.1,16933,Personal Expenses,Single,1,Living with Parents,Paid in Full,1544,High School,0.0,24292,1
+105,715,63211,Employed,0.272,1661,Education,Single,0,Renter,No Previous Loan,713,High School,0.0,28247,1
+106,735,41909,Employed,0.298,13868,Car Purchase,Single,0,Renter,Paid in Full,330,Master or above,0.0,19251,1
+107,800,21304,Self-employed,0.101,48666,Education,Married,1,Owner,Paid in Full,793,Bachelor,567.3008902735731,10084,1
+108,572,22986,Self-employed,0.227,4595,Education,Married,1,Renter,Defaulted,744,Bachelor,139934.05182148458,0,0
+109,800,31990,Employed,0.1,8598,Car Purchase,Married,2,Owner,Paid in Full,2372,Bachelor,834.6713029958714,15160,1
+110,720,34338,Self-employed,0.375,36701,Education,Married,3,Living with Parents,No Previous Loan,4363,High School,0.0,15452,0
+111,800,33037,Employed,0.195,5659,Home Purchase,Single,1,Renter,No Previous Loan,877,Bachelor,0.0,16518,1
+112,657,49395,Employed,0.312,37780,Education,Single,0,Renter,No Previous Loan,7933,Bachelor,0.0,20282,0
+113,582,96237,Employed,0.19,8749,Personal Expenses,Married,2,Owner,Defaulted,2726,Bachelor,2036.1712098779599,32970,1
+114,772,121668,Employed,0.218,11943,Car Purchase,Single,1,Renter,Paid in Full,662,Bachelor,0.0,58704,1
+115,793,148543,Employed,0.278,12507,Education,Single,2,Renter,Paid in Full,1181,High School,0.0,73621,1
+116,622,35066,Employed,0.386,32608,Home Purchase,Single,0,Renter,Paid in Full,5778,Bachelor,0.0,13631,0
+117,800,63827,Employed,0.158,22851,Car Purchase,Single,0,Owner,Paid in Full,1058,Bachelor,0.0,31913,1
+118,586,30526,Employed,0.31,9284,Car Purchase,Single,1,Living with Parents,Defaulted,3151,High School,47848.855148822346,0,0
+119,508,57566,Employed,0.2,9875,Education,Married,1,Renter,No Previous Loan,1537,High School,0.0,18277,0
+120,535,0,Unemployed,0.156,55720,Home Purchase,Single,3,Living with Parents,Paid in Full,1367,Bachelor,0.0,0,0
+121,431,98218,Employed,0.319,21252,Education,Single,2,Renter,No Previous Loan,1220,High School,0.0,26457,1
+122,722,124058,Employed,0.198,78776,Home Purchase,Married,1,Renter,Paid in Full,2239,High School,0.0,55981,1
+123,694,28352,Employed,0.204,9821,Education,Single,0,Owner,Defaulted,681,Bachelor,54068.082950037206,0,1
+124,792,18775,Employed,0.126,5207,Education,Married,1,Renter,Paid in Full,5376,High School,0.0,9293,1
+125,800,69784,Self-employed,0.231,30578,Car Purchase,Single,1,Owner,Paid in Full,378,High School,698.8778827138942,34193,1
+126,664,31898,Self-employed,0.208,3005,Personal Expenses,Single,0,Renter,Defaulted,1198,Master or above,8226.777457658745,5010,0
+127,553,42114,Self-employed,0.155,24960,Home Purchase,Married,2,Renter,No Previous Loan,903,High School,0.0,14555,0
+128,691,31227,Self-employed,0.199,22434,Car Purchase,Married,1,Owner,Paid in Full,362,High School,0.0,13486,1
+129,800,33202,Employed,0.253,39794,Home Purchase,Single,0,Renter,Paid in Full,454,Bachelor,0.0,16601,1
+130,693,63906,Employed,0.297,20996,Education,Married,1,Renter,No Previous Loan,10429,Bachelor,0.0,27679,1
+131,800,52912,Employed,0.3,24728,Education,Married,1,Renter,Paid in Full,7099,Bachelor,1367.5292953094188,25088,1
+132,558,0,Unemployed,0.163,36224,Car Purchase,Married,2,Living with Parents,Paid in Full,5094,Bachelor,0.0,0,0
+133,584,50142,Employed,0.188,10663,Car Purchase,Married,1,Renter,Defaulted,253,Bachelor,1421.1200698903322,16880,0
+134,647,67086,Employed,0.168,17209,Car Purchase,Married,3,Living with Parents,No Previous Loan,902,Bachelor,0.0,27127,1
+135,574,53468,Employed,0.252,180201,Home Purchase,Married,1,Renter,No Previous Loan,564,Master or above,0.0,19181,0
+136,633,53994,Employed,0.288,16183,Personal Expenses,Married,3,Renter,Paid in Full,842,High School,0.0,21361,0
+137,790,160838,Employed,0.164,3159,Personal Expenses,Married,2,Renter,No Previous Loan,527,Bachelor,0.0,79413,1
+138,605,46809,Employed,0.4,1692,Car Purchase,Married,1,Renter,Paid in Full,422,Master or above,0.0,17699,0
+139,651,27064,Employed,0.146,33097,Education,Married,1,Renter,Paid in Full,233,Bachelor,895.5443913269244,10116,0
+140,576,71453,Employed,0.206,7405,Personal Expenses,Married,4,Renter,Defaulted,1490,Bachelor,2870.603517563476,22852,1
+141,566,66654,Employed,0.129,1030,Home Purchase,Married,2,Renter,No Previous Loan,324,Bachelor,0.0,23578,1
+142,712,47472,Employed,0.157,16653,Car Purchase,Single,0,Owner,Paid in Full,2164,Bachelor,0.0,21125,1
+143,800,107824,Employed,0.231,6570,Personal Expenses,Divorced,0,Renter,Paid in Full,967,Bachelor,0.0,53912,1
+144,800,85620,Employed,0.105,7637,Car Purchase,Married,2,Living with Parents,Paid in Full,1387,High School,0.0,42810,1
+145,619,0,Unemployed,0.348,3964,Personal Expenses,Single,3,Living with Parents,No Previous Loan,1147,Bachelor,0.0,0,0
+146,530,26394,Self-employed,0.1,36563,Car Purchase,Married,1,Renter,Paid in Full,520,Master or above,0.0,8743,0
+147,680,122241,Employed,0.135,6437,Home Purchase,Single,3,Renter,Paid in Full,2558,High School,0.0,51952,1
+148,531,37441,Employed,0.396,17111,Personal Expenses,Married,1,Living with Parents,Defaulted,2784,High School,16119.145646792533,0,0
+149,707,38182,Employed,0.322,12494,Education,Single,0,Living with Parents,Paid in Full,882,Bachelor,889.6540764575474,15982,1
+150,538,116848,Self-employed,0.224,34111,Home Purchase,Married,2,Living with Parents,No Previous Loan,271,Bachelor,0.0,39290,0
+151,618,27698,Self-employed,0.294,10628,Home Purchase,Married,3,Renter,Paid in Full,977,Bachelor,0.0,10698,0
+152,577,72707,Employed,0.1,16783,Home Purchase,Single,2,Renter,Paid in Full,238,Bachelor,0.0,26219,1
+153,800,64509,Employed,0.304,18811,Home Purchase,Single,0,Renter,No Previous Loan,983,Master or above,0.0,32254,1
+154,732,64383,Self-employed,0.105,16183,Education,Single,0,Owner,No Previous Loan,2725,Master or above,0.0,29455,1
+155,619,65397,Employed,0.325,21214,Education,Married,2,Living with Parents,No Previous Loan,416,High School,0.0,25300,1
+156,718,69701,Employed,0.118,15498,Home Purchase,Married,2,Owner,No Previous Loan,1280,Bachelor,0.0,31278,1
+157,545,60021,Self-employed,0.144,34316,Personal Expenses,Married,2,Renter,No Previous Loan,1740,High School,0.0,20444,0
+158,800,32509,Employed,0.261,6151,Car Purchase,Single,2,Renter,No Previous Loan,4943,Bachelor,0.0,16254,1
+159,800,31000,Employed,0.245,8255,Education,Married,1,Owner,No Previous Loan,602,Bachelor,0.0,15500,1
+160,633,112889,Employed,0.204,943,Home Purchase,Married,2,Renter,No Previous Loan,225,Master or above,0.0,44661,1
+161,800,26762,Self-employed,0.245,9953,Home Purchase,Married,3,Renter,Paid in Full,277,Bachelor,0.0,13381,1
+162,775,47701,Employed,0.303,86340,Car Purchase,Married,1,Renter,No Previous Loan,895,Master or above,0.0,23105,1
+163,666,125325,Employed,0.142,37903,Personal Expenses,Single,3,Living with Parents,No Previous Loan,416,High School,0.0,52166,1
+164,750,106487,Self-employed,0.1,19211,Education,Married,4,Owner,No Previous Loan,442,Bachelor,0.0,49915,1
+165,347,92696,Employed,0.229,28919,Education,Married,3,Living with Parents,Defaulted,2737,High School,17728.35573163542,2375,0
+166,551,71718,Employed,0.194,20219,Car Purchase,Married,2,Renter,Defaulted,1915,High School,12887.14392818149,11810,0
+167,657,0,Unemployed,0.321,49013,Education,Married,1,Renter,Paid in Full,857,Master or above,0.0,0,0
+168,635,33706,Employed,0.246,5352,Personal Expenses,Single,2,Renter,No Previous Loan,2275,Master or above,0.0,13377,0
+169,710,177296,Self-employed,0.136,7522,Car Purchase,Single,1,Living with Parents,No Previous Loan,10180,High School,0.0,78675,1
+170,799,54905,Employed,0.244,48940,Car Purchase,Single,1,Renter,No Previous Loan,3229,High School,0.0,27418,1
+171,617,46431,Employed,0.398,11104,Car Purchase,Married,2,Owner,No Previous Loan,282,Bachelor,0.0,17904,0
+172,800,118494,Employed,0.39,34523,Car Purchase,Single,0,Renter,Paid in Full,2358,Master or above,0.0,59247,1
+173,724,0,Unemployed,0.125,7124,Education,Single,1,Renter,Paid in Full,585,Bachelor,0.0,0,0
+174,571,49763,Employed,0.137,111404,Personal Expenses,Married,1,Living with Parents,Paid in Full,498,High School,0.0,17759,0
+175,605,22731,Employed,0.209,20097,Home Purchase,Single,0,Owner,Paid in Full,897,Bachelor,0.0,8595,0
+176,800,47942,Employed,0.233,7805,Car Purchase,Married,2,Owner,No Previous Loan,453,Bachelor,0.0,23971,1
+177,601,35463,Employed,0.1,32629,Home Purchase,Single,0,Living with Parents,No Previous Loan,2118,Bachelor,0.0,13320,0
+178,464,80739,Self-employed,0.1,8593,Personal Expenses,Married,1,Renter,Defaulted,1792,High School,5589.238717732854,17825,0
+179,608,75043,Self-employed,0.204,7059,Personal Expenses,Single,1,Renter,No Previous Loan,458,Bachelor,0.0,28516,0
+180,646,67889,Self-employed,0.306,5747,Home Purchase,Single,2,Living with Parents,No Previous Loan,2427,Bachelor,0.0,27410,0
+181,648,67591,Self-employed,0.323,4470,Car Purchase,Single,2,Renter,Paid in Full,2460,High School,0.0,27374,0
+182,752,43072,Employed,0.263,51205,Car Purchase,Married,2,Renter,Paid in Full,1415,High School,0.0,20243,1
+183,800,48788,Employed,0.152,42398,Personal Expenses,Single,2,Living with Parents,Paid in Full,2625,Bachelor,0.0,24394,1
+184,799,63501,Employed,0.24,14059,Home Purchase,Divorced,0,Living with Parents,Paid in Full,1007,High School,0.0,31710,1
+185,443,0,Unemployed,0.149,10674,Education,Married,1,Renter,No Previous Loan,437,High School,0.0,0,0
+186,800,66979,Employed,0.178,2996,Car Purchase,Married,1,Renter,No Previous Loan,297,High School,0.0,33489,1
+187,636,61486,Self-employed,0.204,5730,Home Purchase,Married,2,Living with Parents,No Previous Loan,2020,High School,0.0,24440,0
+188,749,66427,Employed,0.188,54563,Education,Married,2,Owner,Paid in Full,216,High School,0.0,31096,1
+189,694,83358,Self-employed,0.292,12608,Car Purchase,Married,2,Renter,No Previous Loan,382,Bachelor,0.0,36156,1
+190,605,56944,Employed,0.376,23826,Car Purchase,Divorced,1,Renter,Paid in Full,1416,Master or above,0.0,21531,0
+191,353,0,Unemployed,0.1,15937,Personal Expenses,Married,3,Living with Parents,Defaulted,469,High School,14164.291447672023,0,0
+192,797,66882,Employed,0.194,47370,Car Purchase,Married,1,Owner,Paid in Full,1321,High School,883.5309633591553,32432,1
+193,757,47367,Employed,0.257,5089,Personal Expenses,Single,0,Renter,Paid in Full,156,Master or above,0.0,22410,1
+194,800,59744,Employed,0.252,1927,Car Purchase,Single,0,Renter,Paid in Full,2282,High School,1630.721363372958,28241,1
+195,736,78603,Self-employed,0.387,12119,Personal Expenses,Married,3,Renter,Paid in Full,9628,Bachelor,0.0,36157,1
+196,725,134048,Employed,0.123,15540,Home Purchase,Married,2,Renter,Paid in Full,1067,High School,995.1952049359102,59745,1
+197,621,113955,Employed,0.274,50047,Personal Expenses,Married,1,Owner,No Previous Loan,714,High School,0.0,44228,1
+198,652,18836,Self-employed,0.193,15437,Education,Single,1,Owner,No Previous Loan,1845,Bachelor,0.0,7675,0
+199,750,49916,Self-employed,0.384,20550,Personal Expenses,Divorced,0,Owner,Paid in Full,1470,Bachelor,0.0,23398,1
+200,702,29354,Employed,0.155,30946,Personal Expenses,Married,1,Living with Parents,No Previous Loan,563,Bachelor,0.0,12879,1
+201,800,125409,Employed,0.304,22642,Car Purchase,Single,0,Renter,Paid in Full,323,High School,0.0,62704,1
+202,777,83817,Employed,0.286,45525,Car Purchase,Single,0,Renter,Paid in Full,442,High School,0.0,40703,1
+203,675,37242,Employed,0.1,2064,Home Purchase,Married,1,Living with Parents,No Previous Loan,2336,High School,0.0,15711,0
+204,543,55185,Employed,0.249,6266,Home Purchase,Single,0,Living with Parents,Paid in Full,2289,Bachelor,0.0,18728,0
+205,800,46774,Employed,0.149,27421,Home Purchase,Single,1,Owner,Paid in Full,2618,High School,1032.9048471201925,22354,1
+206,675,81372,Employed,0.133,5436,Personal Expenses,Single,1,Living with Parents,No Previous Loan,1504,Bachelor,0.0,34328,1
+207,581,0,Unemployed,0.1,169673,Car Purchase,Married,1,Living with Parents,No Previous Loan,785,High School,0.0,0,0
+208,714,72605,Employed,0.15,28405,Education,Married,2,Renter,Paid in Full,2076,Bachelor,0.0,32399,1
+209,800,77079,Employed,0.11,3641,Home Purchase,Married,2,Renter,No Previous Loan,459,Master or above,0.0,38539,1
+210,728,45477,Self-employed,0.166,39315,Education,Married,1,Renter,Paid in Full,2889,Bachelor,0.0,20692,0
+211,536,0,Unemployed,0.319,9989,Personal Expenses,Single,0,Renter,No Previous Loan,475,Bachelor,0.0,0,0
+212,711,44420,Self-employed,0.1,4125,Personal Expenses,Single,1,Renter,No Previous Loan,229,High School,0.0,19739,0
+213,656,53681,Employed,0.286,15054,Personal Expenses,Married,4,Renter,Paid in Full,514,High School,0.0,22009,0
+214,554,85858,Employed,0.1,4229,Education,Married,3,Renter,No Previous Loan,470,Bachelor,0.0,29728,1
+215,600,36023,Employed,0.37,23374,Home Purchase,Single,2,Renter,Paid in Full,218,Bachelor,0.0,13508,0
+216,776,27418,Employed,0.211,44026,Car Purchase,Single,0,Renter,Paid in Full,2056,Master or above,0.0,13297,1
+217,765,98662,Self-employed,0.129,3978,Car Purchase,Single,1,Owner,No Previous Loan,1350,Bachelor,0.0,47172,1
+218,627,122107,Self-employed,0.266,11167,Education,Single,0,Renter,No Previous Loan,7644,Bachelor,0.0,47850,0
+219,377,124444,Self-employed,0.272,15878,Car Purchase,Single,1,Renter,No Previous Loan,2334,High School,0.0,29322,0
+220,800,87013,Employed,0.255,28242,Car Purchase,Single,2,Renter,No Previous Loan,1178,High School,0.0,43506,1
+221,580,65152,Employed,0.149,6381,Home Purchase,Married,2,Renter,Paid in Full,861,Master or above,0.0,23617,1
+222,748,84277,Employed,0.118,21878,Home Purchase,Married,2,Renter,Paid in Full,548,Master or above,0.0,39399,1
+223,640,0,Unemployed,0.366,1802,Car Purchase,Divorced,1,Renter,No Previous Loan,1128,Master or above,0.0,0,0
+224,800,109319,Self-employed,0.1,7487,Home Purchase,Married,4,Owner,Paid in Full,104,High School,0.0,54659,1
+225,783,32721,Employed,0.354,9672,Personal Expenses,Married,1,Living with Parents,Paid in Full,2673,Bachelor,0.0,16012,1
+226,800,37447,Employed,0.305,4868,Home Purchase,Married,3,Owner,No Previous Loan,4311,High School,0.0,18723,1
+227,638,0,Unemployed,0.158,9806,Education,Married,1,Renter,No Previous Loan,858,High School,0.0,0,0
+228,800,47130,Employed,0.179,10658,Personal Expenses,Single,1,Owner,Paid in Full,200,High School,333.15586560120965,23231,1
+229,687,104707,Self-employed,0.331,16138,Home Purchase,Married,1,Renter,No Previous Loan,143,Bachelor,0.0,44958,1
+230,800,54134,Employed,0.116,9597,Personal Expenses,Married,2,Owner,No Previous Loan,531,Bachelor,0.0,27067,1
+231,589,138074,Self-employed,0.196,19070,Home Purchase,Married,2,Living with Parents,No Previous Loan,927,High School,0.0,50828,0
+232,800,84968,Employed,0.293,10016,Personal Expenses,Single,0,Owner,No Previous Loan,1540,High School,0.0,42484,1
+233,710,0,Unemployed,0.1,25104,Education,Single,0,Renter,Paid in Full,7971,Bachelor,0.0,0,0
+234,742,138271,Employed,0.264,27674,Home Purchase,Married,2,Renter,Paid in Full,346,Bachelor,0.0,64123,1
+235,595,75855,Self-employed,0.153,45159,Education,Divorced,3,Renter,Defaulted,410,Bachelor,2737.494538203798,25471,0
+236,669,32091,Employed,0.1,35804,Home Purchase,Married,2,Renter,No Previous Loan,734,High School,0.0,13418,0
+237,800,121614,Employed,0.128,10293,Home Purchase,Married,2,Renter,Paid in Full,242,Bachelor,0.0,60807,1
+238,800,82361,Employed,0.246,77142,Home Purchase,Single,2,Renter,Paid in Full,476,Bachelor,1910.216200204656,39270,1
+239,800,45190,Employed,0.1,86661,Personal Expenses,Married,2,Renter,No Previous Loan,1394,Bachelor,0.0,22595,1
+240,576,78232,Employed,0.365,18305,Education,Single,0,Renter,No Previous Loan,710,Master or above,0.0,28163,1
+241,659,38418,Employed,0.147,44948,Home Purchase,Single,3,Renter,No Previous Loan,295,Bachelor,0.0,15823,0
+242,786,35949,Employed,0.145,12528,Personal Expenses,Single,0,Owner,No Previous Loan,1506,High School,0.0,17659,1
+243,448,44830,Employed,0.232,28120,Education,Single,1,Renter,No Previous Loan,335,Master or above,0.0,12552,0
+244,698,62045,Employed,0.223,4602,Home Purchase,Married,3,Renter,Paid in Full,5367,High School,0.0,27067,1
+245,681,87216,Self-employed,0.289,33348,Car Purchase,Single,2,Living with Parents,Paid in Full,3041,Master or above,0.0,37121,1
+246,686,59855,Self-employed,0.1,34121,Personal Expenses,Divorced,1,Renter,Paid in Full,479,Master or above,0.0,25662,1
+247,794,59255,Self-employed,0.129,8481,Personal Expenses,Single,1,Living with Parents,Paid in Full,9405,Bachelor,0.0,29405,1
+248,777,22561,Employed,0.1,16323,Car Purchase,Single,1,Renter,No Previous Loan,4330,Bachelor,0.0,10956,1
+249,473,68688,Employed,0.201,25564,Home Purchase,Single,0,Renter,No Previous Loan,1851,Bachelor,0.0,20305,1
+250,634,78758,Employed,0.159,28146,Personal Expenses,Single,2,Renter,No Previous Loan,8888,Bachelor,0.0,31207,1
+251,728,37604,Employed,0.279,91070,Home Purchase,Married,3,Owner,Defaulted,760,Bachelor,11703.269217968327,5406,1
+252,800,155311,Employed,0.1,5050,Home Purchase,Single,3,Owner,Paid in Full,137,Bachelor,0.0,77655,1
+253,634,0,Unemployed,0.117,16808,Personal Expenses,Married,1,Living with Parents,Paid in Full,521,Bachelor,0.0,0,0
+254,754,47444,Employed,0.162,12837,Education,Married,1,Renter,Paid in Full,597,Master or above,0.0,22357,1
+255,659,16722,Employed,0.134,21359,Education,Married,1,Renter,Paid in Full,534,High School,1493.8390896708104,5393,0
+256,502,72050,Employed,0.138,20381,Personal Expenses,Married,1,Renter,Paid in Full,570,Bachelor,882.0329167225299,21723,1
+257,667,62036,Self-employed,0.1,9734,Car Purchase,Divorced,2,Living with Parents,No Previous Loan,252,High School,0.0,25861,0
+258,745,49621,Employed,0.243,12549,Home Purchase,Married,2,Renter,No Previous Loan,3503,Master or above,0.0,23104,1
+259,585,66209,Self-employed,0.328,42724,Personal Expenses,Single,1,Owner,Paid in Full,440,Bachelor,0.0,24207,1
+260,800,35481,Employed,0.163,9973,Car Purchase,Single,0,Renter,No Previous Loan,228,High School,0.0,17740,1
+261,546,105452,Employed,0.145,42433,Home Purchase,Married,1,Renter,Defaulted,7647,Master or above,717.1317785395793,35268,1
+262,664,33654,Employed,0.273,28533,Car Purchase,Divorced,2,Renter,No Previous Loan,189,High School,0.0,13966,0
+263,693,69471,Self-employed,0.294,7813,Home Purchase,Single,1,Renter,Paid in Full,639,Bachelor,1167.3204848983526,28922,1
+264,766,59543,Employed,0.175,12737,Personal Expenses,Married,1,Living with Parents,Paid in Full,23931,Bachelor,0.0,28506,1
+265,708,29424,Employed,0.217,8202,Car Purchase,Married,2,Renter,No Previous Loan,151,Bachelor,0.0,13020,1
+266,742,45450,Employed,0.169,2870,Home Purchase,Married,2,Living with Parents,Paid in Full,1419,Bachelor,0.0,21077,1
+267,687,80159,Employed,0.226,42000,Personal Expenses,Married,1,Owner,No Previous Loan,745,Master or above,0.0,34418,1
+268,727,113749,Employed,0.1,11028,Home Purchase,Married,3,Owner,No Previous Loan,98,Bachelor,0.0,51684,1
+269,723,63581,Employed,0.311,46391,Home Purchase,Married,3,Renter,Paid in Full,671,High School,230.60635053377786,28500,1
+270,632,64436,Employed,0.1,5353,Car Purchase,Married,1,Owner,Paid in Full,100,Bachelor,0.0,25452,1
+271,614,18557,Self-employed,0.1,306898,Home Purchase,Married,4,Renter,No Previous Loan,176,High School,0.0,7121,0
+272,547,0,Unemployed,0.18,11205,Personal Expenses,Married,1,Renter,No Previous Loan,485,Bachelor,0.0,0,0
+273,560,30869,Self-employed,0.359,4872,Personal Expenses,Single,0,Renter,No Previous Loan,653,Bachelor,0.0,10804,0
+274,666,0,Unemployed,0.275,8921,Home Purchase,Divorced,2,Renter,Paid in Full,1009,High School,0.0,0,0
+275,652,47904,Self-employed,0.103,13800,Personal Expenses,Married,1,Owner,Paid in Full,444,Bachelor,0.0,19520,0
+276,679,64902,Employed,0.4,32771,Education,Married,2,Renter,Paid in Full,2031,High School,0.0,27542,0
+277,800,89056,Employed,0.4,22618,Personal Expenses,Single,3,Renter,Paid in Full,3142,High School,0.0,44528,1
+278,800,68228,Self-employed,0.28,5634,Personal Expenses,Married,3,Living with Parents,Paid in Full,1337,High School,0.0,34114,1
+279,800,22548,Employed,0.225,16818,Home Purchase,Single,1,Renter,No Previous Loan,79,Bachelor,0.0,11274,1
+280,714,65361,Employed,0.145,11784,Personal Expenses,Single,0,Renter,No Previous Loan,1899,Bachelor,0.0,29167,1
+281,800,48620,Employed,0.1,24143,Personal Expenses,Married,3,Renter,No Previous Loan,3578,High School,0.0,24310,1
+282,703,37932,Employed,0.298,34507,Home Purchase,Divorced,2,Renter,Paid in Full,774,High School,955.5411687280038,15710,1
+283,555,72067,Employed,0.148,147205,Car Purchase,Single,1,Renter,No Previous Loan,1345,High School,0.0,24998,1
+284,616,80100,Employed,0.23,12392,Personal Expenses,Married,1,Renter,Defaulted,392,High School,533.3102608187943,30305,1
+285,570,0,Unemployed,0.289,65188,Car Purchase,Married,2,Renter,Paid in Full,407,Bachelor,0.0,0,0
+286,611,157198,Employed,0.28,10255,Car Purchase,Married,1,Renter,Paid in Full,990,High School,650.6395178241171,59379,1
+287,711,48301,Employed,0.204,38426,Home Purchase,Single,2,Living with Parents,Paid in Full,189,High School,0.0,21463,1
+288,694,42946,Employed,0.1,14565,Home Purchase,Single,2,Renter,No Previous Loan,366,Bachelor,0.0,18627,1
+289,673,35212,Self-employed,0.1,13282,Personal Expenses,Single,1,Renter,Paid in Full,745,High School,1391.2519811665131,13419,0
+290,675,66200,Self-employed,0.257,9590,Car Purchase,Married,4,Renter,Paid in Full,1030,High School,399.77340096449973,27528,0
+291,800,49030,Employed,0.304,80785,Education,Divorced,2,Renter,Paid in Full,1307,Bachelor,0.0,24515,1
+292,729,66387,Employed,0.152,18432,Education,Married,2,Renter,Paid in Full,809,High School,0.0,30247,1
+293,633,49660,Self-employed,0.136,33632,Personal Expenses,Married,1,Renter,No Previous Loan,1405,Master or above,0.0,19646,0
+294,656,73465,Self-employed,0.132,6153,Personal Expenses,Married,1,Renter,Paid in Full,2085,High School,1035.7245379343512,29084,0
+295,692,88972,Employed,0.213,100460,Home Purchase,Single,0,Living with Parents,No Previous Loan,916,High School,0.0,38480,1
+296,779,110191,Self-employed,0.1,5062,Personal Expenses,Married,1,Renter,Paid in Full,1434,Bachelor,0.0,53649,1
+297,691,69546,Self-employed,0.149,6238,Education,Married,5,Living with Parents,Paid in Full,976,Bachelor,0.0,30035,1
+298,640,58849,Employed,0.211,15968,Personal Expenses,Married,1,Renter,Paid in Full,8978,Bachelor,1231.218821370015,22308,0
+299,714,66680,Employed,0.25,14895,Education,Single,1,Owner,Paid in Full,5536,Master or above,0.0,29755,1
+300,618,0,Unemployed,0.112,29413,Education,Married,1,Owner,Paid in Full,494,Master or above,585.4930285288457,0,0
+301,662,81086,Employed,0.1,20020,Personal Expenses,Single,2,Renter,Paid in Full,9120,High School,0.0,33549,1
+302,800,62055,Employed,0.36,87154,Home Purchase,Single,0,Renter,No Previous Loan,1827,Master or above,0.0,31027,1
+303,714,50836,Employed,0.1,11243,Personal Expenses,Single,2,Renter,Paid in Full,325,Bachelor,0.0,22685,1
+304,649,26953,Employed,0.238,35070,Car Purchase,Single,0,Renter,Paid in Full,3025,Bachelor,0.0,10932,0
+305,598,18165,Employed,0.355,8343,Personal Expenses,Single,1,Renter,No Previous Loan,3072,Master or above,0.0,6789,0
+306,745,52790,Employed,0.1,11141,Car Purchase,Married,1,Owner,Paid in Full,1267,High School,0.0,24580,1
+307,701,73725,Employed,0.269,22128,Home Purchase,Married,1,Renter,Paid in Full,325,High School,0.0,32300,1
+308,800,27412,Employed,0.128,115240,Education,Single,4,Owner,Paid in Full,2034,Bachelor,0.0,13706,1
+309,800,49683,Employed,0.272,13888,Home Purchase,Single,2,Owner,Paid in Full,1280,Bachelor,0.0,24841,1
+310,567,0,Unemployed,0.273,18000,Home Purchase,Married,2,Living with Parents,Paid in Full,2127,Master or above,0.0,0,0
+311,749,35734,Employed,0.222,7874,Education,Married,2,Renter,Paid in Full,1053,Bachelor,0.0,16727,1
+312,632,110099,Employed,0.177,8722,Personal Expenses,Single,2,Renter,No Previous Loan,340,Bachelor,0.0,43489,1
+313,519,196806,Employed,0.313,8889,Personal Expenses,Single,3,Living with Parents,No Previous Loan,1161,High School,0.0,63838,1
+314,668,32652,Employed,0.332,25868,Personal Expenses,Single,1,Renter,Defaulted,405,Bachelor,78907.4680221768,0,0
+315,726,51706,Employed,0.1,10686,Home Purchase,Single,0,Renter,No Previous Loan,380,High School,0.0,23461,1
+316,724,77518,Employed,0.231,119299,Home Purchase,Married,3,Renter,Paid in Full,8399,Master or above,0.0,35076,1
+317,603,33093,Employed,0.291,10169,Home Purchase,Single,1,Owner,Paid in Full,1226,Bachelor,0.0,12471,1
+318,468,32373,Employed,0.1,7141,Car Purchase,Divorced,2,Living with Parents,Defaulted,582,Bachelor,67109.2831733272,0,0
+319,568,19332,Employed,0.335,13826,Personal Expenses,Single,1,Renter,No Previous Loan,532,High School,0.0,6862,0
+320,773,64998,Employed,0.234,50872,Education,Married,2,Owner,No Previous Loan,245,Bachelor,0.0,31402,1
+321,681,34935,Employed,0.248,9304,Home Purchase,Single,0,Renter,Paid in Full,2927,High School,0.0,14869,1
+322,800,87887,Self-employed,0.166,4357,Personal Expenses,Single,0,Renter,No Previous Loan,1217,Bachelor,0.0,43943,1
+323,800,131049,Employed,0.1,24166,Home Purchase,Married,3,Owner,No Previous Loan,8058,High School,0.0,65524,1
+324,781,116495,Employed,0.223,3119,Education,Single,0,Owner,Paid in Full,2081,High School,0.0,56864,1
+325,555,69294,Self-employed,0.1,41487,Home Purchase,Single,0,Renter,No Previous Loan,1852,High School,0.0,24036,0
+326,788,28751,Employed,0.1,50419,Home Purchase,Single,0,Living with Parents,No Previous Loan,1030,High School,0.0,14159,1
+327,725,13795,Employed,0.121,10422,Personal Expenses,Single,1,Living with Parents,Paid in Full,1332,Bachelor,0.0,6250,1
+328,637,20271,Self-employed,0.277,64258,Personal Expenses,Married,1,Renter,No Previous Loan,11031,Bachelor,0.0,8070,0
+329,563,79819,Employed,0.192,8141,Home Purchase,Single,1,Owner,Defaulted,2023,High School,33193.01654616228,0,1
+330,800,39407,Employed,0.195,13911,Car Purchase,Single,0,Owner,No Previous Loan,2227,Bachelor,0.0,19703,1
+331,768,53770,Employed,0.228,1399,Personal Expenses,Married,1,Living with Parents,Paid in Full,6787,Master or above,0.0,25809,1
+332,799,63053,Employed,0.193,3357,Car Purchase,Single,1,Renter,Paid in Full,1246,Bachelor,0.0,31487,1
+333,599,82424,Employed,0.135,61921,Education,Single,2,Renter,No Previous Loan,501,High School,0.0,30857,1
+334,729,58704,Employed,0.395,21100,Home Purchase,Single,2,Owner,No Previous Loan,436,Master or above,0.0,26747,1
+335,731,40488,Employed,0.1,5670,Personal Expenses,Married,2,Living with Parents,Paid in Full,112,Bachelor,0.0,18497,1
+336,749,46530,Employed,0.19,7991,Personal Expenses,Married,1,Owner,No Previous Loan,1325,High School,0.0,21781,1
+337,507,23493,Employed,0.1,36066,Car Purchase,Married,2,Renter,No Previous Loan,100,High School,0.0,7444,0
+338,800,23399,Employed,0.158,7207,Home Purchase,Single,1,Renter,Paid in Full,157,Bachelor,0.0,11699,1
+339,800,72549,Employed,0.238,6001,Personal Expenses,Married,2,Owner,Paid in Full,1271,Bachelor,0.0,36274,1
+340,800,90013,Employed,0.169,68810,Home Purchase,Married,2,Owner,Paid in Full,628,High School,0.0,45006,1
+341,593,80328,Employed,0.1,9321,Personal Expenses,Single,1,Living with Parents,Paid in Full,344,Bachelor,0.0,29771,1
+342,667,93725,Employed,0.4,21522,Car Purchase,Married,2,Renter,Defaulted,1762,Bachelor,42104.300041075636,0,0
+343,670,32058,Self-employed,0.302,2719,Personal Expenses,Single,0,Renter,No Previous Loan,1669,High School,0.0,13424,0
+344,629,25553,Employed,0.1,7253,Personal Expenses,Married,2,Renter,No Previous Loan,315,High School,0.0,10045,0
+345,538,61522,Employed,0.313,5743,Personal Expenses,Married,1,Living with Parents,No Previous Loan,582,High School,0.0,20686,1
+346,800,61097,Employed,0.359,47206,Car Purchase,Married,2,Owner,No Previous Loan,1238,Bachelor,0.0,30548,1
+347,590,87462,Employed,0.163,22000,Car Purchase,Married,2,Living with Parents,Paid in Full,1874,High School,0.0,32251,1
+348,658,43905,Employed,0.168,10350,Personal Expenses,Married,2,Owner,Paid in Full,1260,Bachelor,1646.734706622471,16409,1
+349,731,71248,Employed,0.1,2335,Home Purchase,Married,1,Renter,No Previous Loan,1104,High School,0.0,32551,1
+350,800,38657,Employed,0.132,55986,Car Purchase,Single,1,Living with Parents,No Previous Loan,891,Bachelor,0.0,19328,1
+351,635,72086,Employed,0.129,25971,Personal Expenses,Single,0,Renter,No Previous Loan,2532,High School,0.0,28609,1
+352,660,42116,Employed,0.254,8487,Home Purchase,Married,2,Renter,Defaulted,2798,Bachelor,1349.226032001557,16023,0
+353,657,67988,Self-employed,0.134,7370,Education,Single,1,Renter,No Previous Loan,253,High School,0.0,27917,0
+354,590,25500,Self-employed,0.217,29654,Education,Single,2,Renter,Defaulted,4253,High School,67802.23857517478,0,0
+355,761,52291,Self-employed,0.1,169252,Car Purchase,Single,2,Renter,No Previous Loan,956,Bachelor,0.0,24870,0
+356,709,58392,Employed,0.173,98613,Car Purchase,Single,3,Living with Parents,Defaulted,1341,Master or above,6553.021802708657,19321,1
+357,734,24393,Employed,0.221,8801,Home Purchase,Single,1,Owner,Paid in Full,750,High School,0.0,11190,1
+358,598,49690,Employed,0.262,77828,Education,Married,3,Renter,No Previous Loan,2906,Bachelor,0.0,18571,0
+359,656,65136,Employed,0.149,34670,Education,Single,1,Owner,No Previous Loan,1364,Bachelor,0.0,26705,1
+360,618,108462,Employed,0.248,11640,Education,Single,0,Renter,Paid in Full,637,Master or above,0.0,41893,1
+361,745,52400,Employed,0.298,10798,Education,Single,2,Renter,Paid in Full,138,Bachelor,0.0,24398,1
+362,704,42778,Self-employed,0.206,17540,Car Purchase,Single,2,Renter,No Previous Loan,2494,High School,0.0,18822,0
+363,800,51141,Employed,0.11,33201,Education,Single,0,Owner,No Previous Loan,1805,Bachelor,0.0,25570,1
+364,613,82975,Employed,0.227,8491,Personal Expenses,Married,2,Renter,No Previous Loan,612,High School,0.0,31789,1
+365,501,0,Unemployed,0.189,13502,Personal Expenses,Divorced,1,Renter,Defaulted,2495,High School,1449.5216810771108,0,0
+366,753,87622,Employed,0.289,17366,Home Purchase,Single,1,Renter,Paid in Full,440,Bachelor,0.0,41237,1
+367,704,39740,Employed,0.226,23051,Home Purchase,Married,2,Renter,No Previous Loan,547,High School,0.0,17485,1
+368,663,0,Unemployed,0.122,73578,Home Purchase,Married,2,Living with Parents,No Previous Loan,822,Master or above,0.0,0,0
+369,800,61114,Employed,0.231,1638,Education,Married,2,Renter,Paid in Full,270,Master or above,0.0,30557,1
+370,800,58450,Employed,0.264,10232,Car Purchase,Single,1,Owner,No Previous Loan,647,Bachelor,0.0,29225,1
+371,645,91433,Employed,0.156,23961,Home Purchase,Married,2,Renter,No Previous Loan,294,Master or above,0.0,36858,1
+372,599,171025,Employed,0.186,21411,Home Purchase,Married,3,Renter,No Previous Loan,1734,High School,0.0,64027,1
+373,534,34244,Self-employed,0.136,39654,Education,Single,1,Owner,No Previous Loan,4678,High School,0.0,11428,0
+374,733,127450,Employed,0.1,8736,Car Purchase,Married,1,Renter,Defaulted,97,High School,22579.800951285953,35808,1
+375,792,54184,Self-employed,0.1,58538,Home Purchase,Single,1,Renter,Paid in Full,1376,Master or above,0.0,26821,1
+376,628,39402,Employed,0.1,101427,Home Purchase,Single,0,Renter,No Previous Loan,673,Bachelor,0.0,15465,0
+377,792,76040,Self-employed,0.383,13924,Education,Single,1,Renter,No Previous Loan,2260,Bachelor,0.0,37639,1
+378,544,171215,Employed,0.4,16579,Car Purchase,Married,2,Renter,No Previous Loan,1885,Master or above,0.0,58213,1
+379,513,168090,Self-employed,0.298,3914,Personal Expenses,Single,0,Renter,Defaulted,932,Bachelor,19756.83168017233,34137,0
+380,547,88237,Employed,0.1,13890,Education,Married,1,Owner,No Previous Loan,469,High School,0.0,30166,1
+381,645,67174,Self-employed,0.163,8818,Personal Expenses,Single,1,Owner,No Previous Loan,4742,High School,0.0,27079,1
+382,746,49797,Employed,0.222,3285,Education,Married,1,Owner,No Previous Loan,2317,Bachelor,0.0,23217,1
+383,616,63295,Self-employed,0.272,2544,Home Purchase,Married,1,Living with Parents,No Previous Loan,2087,High School,0.0,24368,0
+384,642,64707,Employed,0.192,9208,Car Purchase,Single,0,Renter,No Previous Loan,1040,High School,0.0,25963,1
+385,564,68143,Employed,0.1,25507,Personal Expenses,Married,2,Renter,No Previous Loan,1306,Bachelor,0.0,24020,1
+386,749,62589,Self-employed,0.208,47059,Home Purchase,Single,2,Renter,Defaulted,11152,Master or above,19198.08076754364,10101,1
+387,771,30181,Self-employed,0.172,6386,Education,Single,0,Owner,Paid in Full,2955,High School,0.0,14543,1
+388,800,137712,Employed,0.292,2937,Home Purchase,Married,1,Living with Parents,No Previous Loan,943,Master or above,0.0,68856,1
+389,778,84472,Employed,0.23,33337,Personal Expenses,Married,4,Owner,No Previous Loan,959,Bachelor,0.0,41074,1
+390,507,63443,Employed,0.324,5237,Home Purchase,Single,2,Owner,No Previous Loan,3253,Master or above,0.0,20103,1
+391,791,20551,Self-employed,0.202,58312,Education,Single,2,Owner,No Previous Loan,188,Master or above,0.0,10159,1
+392,400,56538,Employed,0.265,20166,Home Purchase,Married,3,Renter,Defaulted,662,Master or above,6230.149419714201,7904,0
+393,760,117882,Employed,0.1,21215,Personal Expenses,Single,2,Living with Parents,No Previous Loan,3717,High School,0.0,55993,1
+394,780,41883,Employed,0.19,25384,Car Purchase,Married,1,Owner,Paid in Full,1577,Bachelor,0.0,20417,1
+395,800,78614,Employed,0.344,21184,Personal Expenses,Single,1,Owner,No Previous Loan,843,Bachelor,0.0,39307,1
+396,800,32232,Employed,0.147,5302,Home Purchase,Married,1,Owner,No Previous Loan,837,High School,0.0,16116,1
+397,766,92916,Employed,0.201,46850,Home Purchase,Single,1,Renter,No Previous Loan,687,High School,0.0,44483,1
+398,733,0,Unemployed,0.281,5870,Car Purchase,Single,0,Renter,No Previous Loan,1010,Master or above,0.0,0,0
+399,552,43001,Employed,0.258,18317,Personal Expenses,Single,3,Renter,No Previous Loan,3116,Bachelor,0.0,14835,0
+400,656,27178,Employed,0.339,38830,Education,Married,3,Owner,No Previous Loan,918,Master or above,0.0,11142,0
+401,563,60699,Employed,0.1,7690,Personal Expenses,Single,1,Renter,No Previous Loan,149,Bachelor,0.0,21358,1
+402,580,63099,Employed,0.331,11276,Home Purchase,Single,0,Renter,Defaulted,480,Bachelor,22659.340052270323,214,0
+403,800,176722,Employed,0.138,43265,Car Purchase,Single,0,Owner,Paid in Full,217,High School,519.9736950311216,87841,1
+404,546,101611,Employed,0.363,19489,Home Purchase,Married,1,Renter,No Previous Loan,651,High School,0.0,34674,0
+405,677,23430,Employed,0.172,4986,Home Purchase,Married,1,Renter,Defaulted,175,High School,3164.907270461021,6748,0
+406,607,61961,Self-employed,0.218,6050,Personal Expenses,Single,3,Living with Parents,No Previous Loan,4360,High School,0.0,23506,0
+407,474,129057,Employed,0.33,28594,Home Purchase,Single,1,Renter,Defaulted,1470,Bachelor,16334.082114429839,21899,0
+408,764,42881,Employed,0.233,22270,Car Purchase,Single,2,Owner,No Previous Loan,2395,Master or above,0.0,20475,1
+409,782,78350,Employed,0.1,13474,Education,Married,1,Renter,No Previous Loan,555,High School,0.0,38293,1
+410,733,0,Unemployed,0.329,56141,Education,Married,2,Owner,No Previous Loan,2800,Bachelor,0.0,0,0
+411,645,117988,Employed,0.263,13759,Education,Married,1,Renter,Paid in Full,1516,High School,0.0,47563,1
+412,797,69343,Employed,0.262,9831,Home Purchase,Divorced,2,Renter,Paid in Full,1734,High School,1446.2353265478744,33095,1
+413,794,56611,Employed,0.1,43693,Home Purchase,Married,3,Renter,Paid in Full,7457,Master or above,0.0,28093,1
+414,442,0,Unemployed,0.273,26111,Education,Single,0,Renter,No Previous Loan,1345,High School,0.0,0,0
+415,676,64625,Employed,0.124,39862,Education,Single,1,Living with Parents,No Previous Loan,869,Bachelor,0.0,27304,1
+416,598,24108,Employed,0.269,9187,Car Purchase,Single,5,Renter,No Previous Loan,102,Bachelor,0.0,9010,0
+417,597,118160,Self-employed,0.301,74797,Car Purchase,Married,1,Living with Parents,No Previous Loan,1804,Master or above,0.0,44088,0
+418,669,0,Unemployed,0.182,6915,Personal Expenses,Married,2,Living with Parents,Paid in Full,213,High School,0.0,0,0
+419,766,133395,Employed,0.153,8741,Car Purchase,Single,0,Renter,Paid in Full,2050,Master or above,0.0,63862,1
+420,792,124727,Employed,0.187,2831,Personal Expenses,Married,2,Living with Parents,Paid in Full,676,Bachelor,1062.4294786039436,60677,1
+421,687,96539,Employed,0.256,70251,Home Purchase,Married,1,Renter,Paid in Full,218,High School,0.0,41451,1
+422,800,46030,Employed,0.2,9948,Home Purchase,Single,1,Renter,Paid in Full,1824,Bachelor,0.0,23015,1
+423,678,62504,Employed,0.332,20134,Personal Expenses,Single,1,Owner,No Previous Loan,2352,Master or above,0.0,26486,1
+424,685,106131,Employed,0.145,11229,Education,Single,1,Living with Parents,Paid in Full,282,High School,0.0,45437,1
+425,800,43834,Employed,0.238,26115,Education,Married,1,Owner,No Previous Loan,824,Master or above,0.0,21917,1
+426,565,0,Unemployed,0.1,7889,Home Purchase,Married,2,Renter,No Previous Loan,1353,Bachelor,0.0,0,0
+427,800,83983,Employed,0.115,8057,Home Purchase,Single,0,Owner,No Previous Loan,274,High School,0.0,41991,1
+428,604,84928,Employed,0.1,2735,Personal Expenses,Married,1,Renter,Paid in Full,509,Master or above,0.0,32060,1
+429,715,36316,Self-employed,0.256,30476,Home Purchase,Single,2,Renter,No Previous Loan,578,High School,0.0,16228,0
+430,800,29350,Employed,0.242,32910,Car Purchase,Single,0,Renter,Paid in Full,3890,High School,0.0,14675,1
+431,715,30033,Employed,0.1,16167,Education,Married,4,Renter,No Previous Loan,953,Master or above,0.0,13420,1
+432,656,84145,Employed,0.16,3749,Education,Married,1,Owner,No Previous Loan,787,Master or above,0.0,34499,1
+433,800,53752,Self-employed,0.103,23369,Education,Divorced,1,Renter,No Previous Loan,878,Bachelor,0.0,26876,1
+434,800,58761,Employed,0.291,9960,Home Purchase,Single,1,Renter,Paid in Full,942,High School,0.0,29380,1
+435,657,41152,Self-employed,0.1,16748,Personal Expenses,Divorced,1,Renter,No Previous Loan,1732,High School,0.0,16898,0
+436,566,41657,Self-employed,0.2,13597,Home Purchase,Married,2,Renter,Paid in Full,896,High School,0.0,14736,0
+437,614,61334,Employed,0.181,56777,Home Purchase,Single,1,Living with Parents,No Previous Loan,1279,Master or above,0.0,23536,1
+438,592,30343,Employed,0.249,19653,Education,Single,2,Renter,No Previous Loan,1134,Master or above,0.0,11226,0
+439,800,72101,Employed,0.291,5514,Education,Single,2,Owner,Defaulted,1767,Bachelor,2329.8777930641877,33720,1
+440,446,0,Unemployed,0.4,62467,Personal Expenses,Married,2,Renter,Defaulted,1103,Master or above,41130.27684062416,0,0
+441,557,40574,Employed,0.178,13378,Education,Single,2,Renter,Paid in Full,1162,Bachelor,0.0,14124,0
+442,774,104865,Employed,0.26,35521,Car Purchase,Married,2,Living with Parents,No Previous Loan,115,Bachelor,0.0,50728,1
+443,633,147579,Employed,0.13,19221,Home Purchase,Married,2,Renter,Defaulted,232,Bachelor,9979.817993717857,48406,1
+444,522,29371,Employed,0.1,42640,Personal Expenses,Married,2,Living with Parents,No Previous Loan,713,Master or above,0.0,9582,0
+445,619,37018,Employed,0.198,15574,Home Purchase,Married,1,Renter,No Previous Loan,953,Master or above,0.0,14321,0
+446,706,64352,Employed,0.242,37117,Home Purchase,Single,1,Renter,No Previous Loan,3791,High School,0.0,28395,1
+447,668,31170,Self-employed,0.258,4185,Car Purchase,Married,1,Living with Parents,Paid in Full,3808,Master or above,900.8354577056233,12112,0
+448,687,118626,Employed,0.372,8898,Home Purchase,Married,1,Living with Parents,No Previous Loan,495,High School,0.0,50935,1
+449,800,133704,Employed,0.1,15002,Home Purchase,Divorced,1,Owner,No Previous Loan,424,Bachelor,0.0,66852,1
+450,780,48114,Employed,0.356,28510,Personal Expenses,Married,3,Renter,Paid in Full,267,Bachelor,0.0,23455,1
+451,736,72803,Employed,0.131,23872,Education,Married,2,Renter,Paid in Full,669,Bachelor,0.0,33489,1
+452,441,95826,Self-employed,0.105,59921,Home Purchase,Married,3,Renter,Defaulted,340,Bachelor,27177.272064739038,0,0
+453,731,24036,Employed,0.188,24454,Personal Expenses,Married,5,Owner,Paid in Full,539,Bachelor,0.0,10981,1
+454,800,59688,Employed,0.332,14556,Personal Expenses,Married,3,Renter,Paid in Full,11456,High School,0.0,29844,1
+455,800,59567,Employed,0.4,49646,Home Purchase,Single,1,Renter,No Previous Loan,544,High School,0.0,29783,0
+456,680,46175,Employed,0.326,8656,Car Purchase,Single,0,Renter,Paid in Full,905,High School,0.0,19624,0
+457,624,61754,Employed,0.205,8515,Home Purchase,Married,2,Renter,Defaulted,338,Bachelor,63742.97646703255,0,0
+458,676,50747,Employed,0.1,14481,Car Purchase,Married,3,Renter,Defaulted,2424,High School,13578.117379750236,7862,0
+459,566,116116,Employed,0.347,16272,Car Purchase,Single,0,Renter,No Previous Loan,1597,Bachelor,0.0,41076,1
+460,710,49801,Employed,0.4,530,Home Purchase,Married,1,Owner,Defaulted,1305,Master or above,5160.00763868122,16939,1
+461,773,72149,Employed,0.291,13722,Car Purchase,Married,1,Renter,No Previous Loan,813,Master or above,0.0,34856,1
+462,725,42328,Employed,0.117,13106,Car Purchase,Single,1,Owner,Paid in Full,3830,High School,0.0,19179,1
+463,682,83135,Self-employed,0.213,30721,Personal Expenses,Divorced,0,Owner,No Previous Loan,623,High School,0.0,35436,1
+464,800,79426,Self-employed,0.1,11772,Education,Single,0,Renter,Paid in Full,179,Bachelor,1049.322330538885,38663,1
+465,698,64440,Employed,0.116,3688,Education,Single,1,Renter,No Previous Loan,1361,Master or above,0.0,28111,1
+466,678,58278,Self-employed,0.241,8843,Car Purchase,Married,1,Renter,No Previous Loan,1970,High School,0.0,24695,0
+467,466,0,Unemployed,0.247,2385,Home Purchase,Single,2,Renter,Defaulted,186,High School,328526.58480543876,0,0
+468,643,61175,Self-employed,0.242,33084,Education,Single,2,Renter,No Previous Loan,760,Bachelor,0.0,24584,0
+469,800,182182,Employed,0.205,4528,Home Purchase,Single,0,Renter,Paid in Full,1316,Master or above,0.0,91091,1
+470,736,41857,Employed,0.1,15473,Personal Expenses,Married,1,Renter,No Previous Loan,879,Master or above,0.0,19254,1
+471,800,137884,Employed,0.207,24694,Car Purchase,Single,1,Living with Parents,Paid in Full,737,Bachelor,0.0,68942,1
+472,501,0,Unemployed,0.1,10988,Home Purchase,Married,1,Living with Parents,No Previous Loan,927,Bachelor,0.0,0,0
+473,450,59738,Self-employed,0.246,2925,Education,Married,3,Living with Parents,No Previous Loan,433,High School,0.0,16801,0
+474,780,50499,Employed,0.251,70829,Car Purchase,Married,4,Owner,No Previous Loan,699,Bachelor,0.0,24618,1
+475,583,0,Unemployed,0.1,10936,Education,Married,1,Renter,No Previous Loan,2826,Master or above,0.0,0,0
+476,738,83824,Self-employed,0.15,16909,Personal Expenses,Married,2,Renter,Paid in Full,1414,Bachelor,0.0,38663,1
+477,704,149415,Employed,0.208,38745,Education,Single,0,Renter,No Previous Loan,1109,High School,0.0,65742,1
+478,800,53310,Employed,0.186,15151,Personal Expenses,Married,2,Renter,Paid in Full,2665,High School,390.15917334646167,26264,1
+479,660,80848,Self-employed,0.314,19728,Home Purchase,Single,2,Owner,No Previous Loan,115,High School,0.0,33349,1
+480,456,58266,Employed,0.134,2250,Car Purchase,Married,2,Renter,No Previous Loan,1422,High School,0.0,16605,0
+481,793,21710,Employed,0.127,9405,Home Purchase,Single,1,Renter,No Previous Loan,102,Master or above,0.0,10760,1
+482,716,80917,Self-employed,0.203,71625,Car Purchase,Married,2,Renter,Paid in Full,2017,Master or above,0.0,36210,1
+483,723,136144,Self-employed,0.166,8301,Car Purchase,Single,2,Owner,No Previous Loan,930,Bachelor,0.0,61520,1
+484,497,0,Unemployed,0.195,27185,Education,Married,2,Renter,Defaulted,2852,Bachelor,8726.360778545779,0,0
+485,800,85008,Self-employed,0.359,390383,Home Purchase,Single,0,Renter,Paid in Full,1188,Bachelor,1067.5235818169397,41436,1
+486,714,34763,Employed,0.139,15466,Home Purchase,Single,2,Renter,Paid in Full,2347,High School,0.0,15512,1
+487,657,0,Unemployed,0.258,26705,Car Purchase,Married,2,Owner,No Previous Loan,345,Bachelor,0.0,0,0
+488,800,92905,Employed,0.1,5213,Home Purchase,Single,0,Owner,No Previous Loan,1210,High School,0.0,46452,1
+489,659,144575,Employed,0.174,30101,Home Purchase,Single,0,Owner,No Previous Loan,1018,Master or above,0.0,59546,1
+490,604,25093,Employed,0.196,9293,Car Purchase,Single,2,Owner,No Previous Loan,1021,Bachelor,0.0,9472,0
+491,747,134324,Employed,0.11,3105,Car Purchase,Single,1,Renter,Paid in Full,417,Bachelor,1387.0999318868435,61325,1
+492,648,51416,Employed,0.1,44210,Car Purchase,Single,1,Renter,No Previous Loan,1520,Bachelor,0.0,20823,0
+493,800,73049,Employed,0.293,58573,Education,Married,1,Owner,Paid in Full,620,Bachelor,0.0,36524,1
+494,674,17105,Employed,0.183,14935,Personal Expenses,Married,2,Owner,No Previous Loan,1262,Bachelor,0.0,7205,0
+495,789,110875,Employed,0.167,13811,Home Purchase,Married,2,Owner,Paid in Full,2251,Bachelor,1099.9162494933182,53575,1
+496,770,133540,Employed,0.1,21001,Personal Expenses,Single,1,Owner,No Previous Loan,783,Master or above,0.0,64266,1
+497,678,26390,Employed,0.135,7879,Car Purchase,Married,1,Living with Parents,Paid in Full,1562,High School,0.0,11182,0
+498,579,56575,Self-employed,0.215,91407,Education,Married,4,Living with Parents,Paid in Full,1092,High School,0.0,20473,0
+499,615,0,Unemployed,0.1,10038,Car Purchase,Single,0,Owner,Paid in Full,1355,High School,1145.0074113508128,0,0
+500,663,43231,Employed,0.361,42522,Personal Expenses,Married,5,Renter,No Previous Loan,713,High School,0.0,17913,0
+501,661,34334,Employed,0.1,11323,Home Purchase,Single,1,Renter,No Previous Loan,250,Bachelor,0.0,14184,0
+502,612,39823,Self-employed,0.27,6429,Car Purchase,Single,1,Renter,No Previous Loan,733,Master or above,0.0,15232,0
+503,612,85548,Employed,0.203,25485,Home Purchase,Married,1,Living with Parents,No Previous Loan,1323,Bachelor,0.0,32722,1
+504,551,85109,Employed,0.21,41505,Personal Expenses,Married,3,Renter,No Previous Loan,680,Bachelor,0.0,29309,1
+505,724,32277,Employed,0.1,4375,Home Purchase,Single,0,Renter,No Previous Loan,1809,Master or above,0.0,14605,1
+506,749,67855,Employed,0.255,2008,Car Purchase,Married,2,Renter,No Previous Loan,4051,Bachelor,0.0,31764,1
+507,773,18529,Employed,0.256,22276,Personal Expenses,Married,1,Renter,No Previous Loan,7372,High School,0.0,8951,1
+508,632,58498,Self-employed,0.323,43498,Education,Married,2,Renter,No Previous Loan,290,Master or above,0.0,23106,0
+509,505,43755,Employed,0.182,36101,Personal Expenses,Single,2,Renter,Defaulted,1884,Master or above,57510.25325799089,0,0
+510,656,41206,Employed,0.309,5940,Personal Expenses,Married,1,Renter,No Previous Loan,2073,Master or above,0.0,16894,0
+511,710,50920,Self-employed,0.1,35597,Home Purchase,Married,1,Renter,No Previous Loan,435,Bachelor,0.0,22595,0
+512,591,45557,Employed,0.286,35973,Car Purchase,Single,0,Renter,Paid in Full,2663,High School,0.0,16827,0
+513,592,0,Unemployed,0.209,25737,Car Purchase,Single,1,Owner,Paid in Full,438,High School,0.0,0,0
+514,776,50034,Employed,0.321,6662,Education,Married,1,Renter,No Previous Loan,6293,High School,0.0,24266,1
+515,686,79764,Employed,0.204,5471,Home Purchase,Single,1,Living with Parents,No Previous Loan,2891,Bachelor,0.0,34198,1
+516,793,74194,Employed,0.1,8890,Personal Expenses,Single,2,Renter,Paid in Full,419,Bachelor,916.2876524573071,35856,1
+517,784,82494,Employed,0.182,23398,Home Purchase,Married,1,Renter,Paid in Full,2209,Bachelor,0.0,40422,1
+518,650,0,Unemployed,0.209,30280,Personal Expenses,Single,0,Living with Parents,No Previous Loan,803,Master or above,0.0,0,0
+519,709,110664,Self-employed,0.206,27095,Home Purchase,Married,1,Living with Parents,No Previous Loan,637,High School,0.0,49037,1
+520,617,25582,Self-employed,0.265,6200,Home Purchase,Single,1,Renter,Paid in Full,733,High School,484.18406731635775,9380,0
+521,629,86988,Self-employed,0.1,13153,Home Purchase,Single,0,Renter,No Previous Loan,227,Master or above,0.0,34197,1
+522,642,21608,Employed,0.235,27873,Home Purchase,Single,0,Renter,No Previous Loan,6288,Master or above,0.0,8670,0
+523,573,45793,Employed,0.294,3265,Car Purchase,Single,0,Renter,Defaulted,4575,Master or above,1045.9514229975248,15353,0
+524,675,33503,Employed,0.333,27239,Education,Single,4,Living with Parents,Paid in Full,420,Bachelor,0.0,14134,0
+525,676,88850,Employed,0.1,805,Car Purchase,Married,1,Renter,No Previous Loan,653,High School,0.0,37539,1
+526,608,23887,Employed,0.1,33600,Personal Expenses,Married,2,Renter,Defaulted,3431,Bachelor,31694.784817141313,0,0
+527,677,41507,Employed,0.288,4949,Education,Single,1,Living with Parents,No Previous Loan,1347,Master or above,0.0,17562,0
+528,793,95961,Employed,0.301,16027,Car Purchase,Single,0,Renter,No Previous Loan,478,Bachelor,0.0,47560,1
+529,800,42619,Self-employed,0.236,28582,Home Purchase,Married,3,Renter,Paid in Full,214,Bachelor,0.0,21309,0
+530,646,68693,Employed,0.176,75576,Education,Divorced,2,Renter,Paid in Full,394,High School,0.0,27734,1
+531,590,57045,Self-employed,0.11,5727,Education,Single,0,Owner,Paid in Full,37,Bachelor,0.0,21035,0
+532,779,16066,Employed,0.385,3247,Personal Expenses,Married,2,Renter,Paid in Full,2466,Bachelor,1828.607006992953,5993,1
+533,800,46299,Employed,0.162,16948,Home Purchase,Married,1,Renter,Paid in Full,5514,High School,0.0,23149,1
+534,796,141763,Employed,0.105,8306,Education,Single,0,Living with Parents,Paid in Full,289,High School,0.0,70527,1
+535,587,88868,Self-employed,0.154,6076,Home Purchase,Single,0,Renter,No Previous Loan,1267,Master or above,0.0,32603,1
+536,800,93345,Employed,0.1,13405,Car Purchase,Divorced,1,Owner,Paid in Full,2252,Master or above,0.0,46672,1
+537,611,99713,Employed,0.1,60885,Personal Expenses,Single,0,Renter,No Previous Loan,6406,Bachelor,0.0,38077,1
+538,757,58290,Employed,0.21,8479,Home Purchase,Single,3,Living with Parents,No Previous Loan,807,Master or above,0.0,27578,1
+539,656,42876,Employed,0.253,11467,Home Purchase,Single,2,Owner,No Previous Loan,496,High School,0.0,17579,0
+540,594,91514,Employed,0.1,62956,Personal Expenses,Single,0,Renter,Defaulted,557,Master or above,15441.822088517221,18532,1
+541,795,25781,Employed,0.4,43014,Personal Expenses,Married,2,Renter,No Previous Loan,3162,Bachelor,0.0,12809,1
+542,800,43898,Self-employed,0.192,20982,Personal Expenses,Single,1,Owner,Paid in Full,470,High School,0.0,21949,1
+543,577,91630,Self-employed,0.294,26195,Personal Expenses,Single,0,Renter,No Previous Loan,610,Bachelor,0.0,33044,0
+544,726,121621,Employed,0.182,1977,Car Purchase,Married,3,Owner,Paid in Full,809,High School,1376.4792198857385,53809,1
+545,695,41305,Employed,0.325,45966,Personal Expenses,Single,0,Renter,Paid in Full,1457,High School,1216.230606451436,16725,1
+546,780,55326,Employed,0.121,20025,Home Purchase,Married,2,Renter,No Previous Loan,903,Bachelor,0.0,26971,1
+547,618,0,Unemployed,0.262,7974,Personal Expenses,Married,2,Renter,Paid in Full,1456,Master or above,0.0,0,0
+548,661,67328,Employed,0.146,7519,Home Purchase,Married,4,Renter,No Previous Loan,874,High School,0.0,27814,1
+549,625,37497,Employed,0.226,5434,Personal Expenses,Married,2,Renter,No Previous Loan,340,High School,0.0,14647,0
+550,550,64701,Employed,0.186,34901,Car Purchase,Single,0,Renter,Defaulted,373,Bachelor,30321.0643891625,0,0
+551,742,70180,Self-employed,0.302,8350,Home Purchase,Married,2,Renter,No Previous Loan,290,Bachelor,0.0,32545,1
+552,483,0,Unemployed,0.23,23268,Home Purchase,Divorced,1,Renter,No Previous Loan,3895,Bachelor,0.0,0,0
+553,616,0,Unemployed,0.26,10586,Education,Single,1,Renter,No Previous Loan,709,High School,0.0,0,0
+554,690,61988,Employed,0.215,54380,Home Purchase,Single,2,Renter,No Previous Loan,492,Bachelor,0.0,26732,1
+555,706,24647,Employed,0.212,21930,Home Purchase,Single,2,Renter,No Previous Loan,1516,Master or above,0.0,10875,1
+556,782,58916,Employed,0.219,24453,Personal Expenses,Married,1,Owner,Paid in Full,1414,High School,0.0,28795,1
+557,639,45598,Self-employed,0.233,25798,Personal Expenses,Married,2,Renter,No Previous Loan,406,Bachelor,0.0,18210,0
+558,557,0,Unemployed,0.295,22683,Personal Expenses,Married,2,Renter,Defaulted,642,High School,122034.96242678878,0,0
+559,748,149514,Employed,0.1,32313,Car Purchase,Married,1,Renter,No Previous Loan,146,Bachelor,0.0,69897,1
+560,786,83586,Employed,0.151,12660,Education,Married,3,Renter,Paid in Full,763,High School,0.0,41061,1
+561,661,62871,Employed,0.145,19727,Home Purchase,Single,1,Renter,Defaulted,1003,Bachelor,324849.75337227975,0,0
+562,791,53738,Employed,0.268,5509,Car Purchase,Single,0,Owner,No Previous Loan,1438,Bachelor,0.0,26566,1
+563,701,106635,Employed,0.121,15615,Personal Expenses,Married,4,Renter,No Previous Loan,264,High School,0.0,46719,1
+564,800,53515,Employed,0.262,14036,Car Purchase,Married,2,Owner,No Previous Loan,2425,Master or above,0.0,26757,1
+565,800,60017,Employed,0.1,3582,Personal Expenses,Married,1,Owner,Paid in Full,603,Bachelor,0.0,30008,1
+566,672,80112,Self-employed,0.14,19936,Education,Single,1,Living with Parents,Paid in Full,127,Bachelor,0.0,33647,0
+567,800,32636,Employed,0.152,53312,Personal Expenses,Married,3,Owner,No Previous Loan,3086,High School,0.0,16318,1
+568,509,120493,Employed,0.297,28903,Car Purchase,Married,2,Renter,No Previous Loan,450,Master or above,0.0,38331,1
+569,800,137161,Self-employed,0.25,56145,Personal Expenses,Married,4,Owner,Paid in Full,2235,Bachelor,1059.8620721153272,67520,1
+570,800,142555,Employed,0.15,35072,Car Purchase,Married,1,Renter,No Previous Loan,6189,High School,0.0,71277,1
+571,495,190993,Employed,0.1,7809,Home Purchase,Married,2,Living with Parents,No Previous Loan,4058,Master or above,0.0,59088,1
+572,800,51594,Employed,0.1,36804,Personal Expenses,Married,1,Owner,Paid in Full,318,Bachelor,0.0,25797,1
+573,705,0,Unemployed,0.132,2382,Home Purchase,Single,0,Renter,No Previous Loan,143,High School,0.0,0,0
+574,698,89739,Employed,0.114,21680,Personal Expenses,Married,1,Renter,Paid in Full,656,High School,2720.2713203185995,36428,1
+575,774,63014,Employed,0.1,5604,Car Purchase,Single,0,Renter,No Previous Loan,1943,Bachelor,0.0,30483,1
+576,604,98533,Employed,0.176,23418,Education,Married,2,Renter,Paid in Full,1060,High School,0.0,37196,1
+577,580,82035,Employed,0.1,28065,Car Purchase,Single,1,Renter,No Previous Loan,1009,High School,0.0,29737,1
+578,430,0,Unemployed,0.1,5697,Home Purchase,Single,0,Renter,No Previous Loan,1698,High School,0.0,0,0
+579,613,116777,Employed,0.191,74819,Car Purchase,Married,1,Renter,No Previous Loan,1498,High School,0.0,44740,1
+580,579,136627,Self-employed,0.108,26039,Home Purchase,Single,1,Renter,Paid in Full,1134,Bachelor,0.0,49441,0
+581,499,42994,Self-employed,0.128,22088,Car Purchase,Single,1,Renter,No Previous Loan,2470,High School,0.0,13408,0
+582,704,50043,Employed,0.1,13645,Home Purchase,Married,6,Renter,Paid in Full,189,High School,0.0,22018,1
+583,800,49381,Employed,0.157,20693,Car Purchase,Single,2,Owner,Paid in Full,1622,High School,0.0,24690,1
+584,794,87042,Employed,0.349,35627,Education,Single,1,Living with Parents,No Previous Loan,1914,High School,0.0,43194,1
+585,751,55774,Employed,0.307,15823,Home Purchase,Single,0,Owner,No Previous Loan,251,Bachelor,0.0,26178,1
+586,728,64819,Self-employed,0.117,29876,Education,Married,2,Living with Parents,Paid in Full,220,Bachelor,0.0,29492,1
+587,754,0,Unemployed,0.1,50949,Home Purchase,Single,0,Renter,Paid in Full,695,Bachelor,0.0,0,0
+588,551,27688,Employed,0.265,18375,Car Purchase,Single,1,Renter,Paid in Full,170,Bachelor,0.0,9535,0
+589,513,88188,Self-employed,0.236,3945,Home Purchase,Single,2,Living with Parents,No Previous Loan,708,High School,0.0,28275,0
+590,600,0,Unemployed,0.236,10307,Personal Expenses,Single,0,Renter,Paid in Full,627,Master or above,0.0,0,0
+591,585,84722,Employed,0.1,20443,Home Purchase,Single,0,Renter,No Previous Loan,1066,High School,0.0,30976,1
+592,666,21800,Employed,0.204,4530,Education,Married,2,Renter,Defaulted,363,Bachelor,22556.71951658387,0,0
+593,517,67730,Employed,0.137,7898,Personal Expenses,Divorced,0,Renter,Paid in Full,920,Bachelor,0.0,21885,1
+594,654,30192,Self-employed,0.1,37223,Car Purchase,Married,1,Renter,No Previous Loan,3411,Bachelor,0.0,12340,0
+595,632,65112,Employed,0.1,41284,Personal Expenses,Single,2,Living with Parents,Paid in Full,2228,Bachelor,0.0,25719,1
+596,600,0,Unemployed,0.1,23234,Education,Married,2,Renter,No Previous Loan,6252,High School,0.0,0,0
+597,642,61399,Employed,0.352,98461,Car Purchase,Married,2,Renter,No Previous Loan,475,Bachelor,0.0,24636,0
+598,791,113442,Self-employed,0.1,27427,Personal Expenses,Married,2,Renter,No Previous Loan,959,Master or above,0.0,56082,1
+599,620,26182,Employed,0.225,23967,Home Purchase,Single,0,Renter,No Previous Loan,1488,High School,0.0,10145,0
+600,663,19472,Employed,0.211,16280,Personal Expenses,Single,2,Owner,No Previous Loan,1665,High School,0.0,8068,0
+601,725,51341,Employed,0.152,39370,Car Purchase,Single,1,Living with Parents,No Previous Loan,302,Bachelor,0.0,23263,1
+602,703,160076,Self-employed,0.26,3572,Education,Married,3,Renter,Paid in Full,1497,Bachelor,0.0,70333,1
+603,744,82070,Employed,0.261,15683,Personal Expenses,Married,2,Living with Parents,No Previous Loan,118,Bachelor,0.0,38162,1
+604,756,112291,Self-employed,0.201,42744,Home Purchase,Married,2,Renter,No Previous Loan,381,High School,0.0,53057,1
+605,658,65300,Self-employed,0.12,8150,Home Purchase,Single,0,Renter,No Previous Loan,199,High School,0.0,26854,0
+606,633,114233,Employed,0.127,13971,Home Purchase,Married,2,Living with Parents,Paid in Full,222,High School,0.0,45193,1
+607,608,61016,Self-employed,0.22,3034,Car Purchase,Married,4,Owner,No Previous Loan,280,Master or above,0.0,23186,1
+608,555,35590,Employed,0.264,11725,Home Purchase,Married,2,Renter,Defaulted,2317,Bachelor,25396.087669848857,0,0
+609,485,38073,Self-employed,0.176,27890,Car Purchase,Single,2,Renter,Defaulted,2396,Bachelor,821.9127986525992,10718,0
+610,630,28398,Employed,0.266,27768,Car Purchase,Married,1,Renter,No Previous Loan,2526,Bachelor,0.0,11181,0
+611,618,76421,Employed,0.224,8939,Personal Expenses,Single,1,Renter,No Previous Loan,1843,High School,0.0,29517,1
+612,561,48783,Employed,0.398,7717,Car Purchase,Single,0,Living with Parents,Defaulted,214,Bachelor,25424.682874787024,0,0
+613,726,64335,Employed,0.211,18216,Personal Expenses,Married,2,Renter,Paid in Full,2744,Bachelor,0.0,29192,1
+614,668,168005,Employed,0.193,32690,Education,Single,1,Renter,Paid in Full,6529,Bachelor,0.0,70142,1
+615,619,70534,Employed,0.318,49722,Personal Expenses,Single,3,Renter,Paid in Full,2061,Master or above,1699.1219051956923,25588,1
+616,697,59541,Employed,0.33,20159,Education,Married,2,Renter,No Previous Loan,834,High School,0.0,25937,1
+617,660,112701,Self-employed,0.1,19633,Home Purchase,Single,2,Owner,No Previous Loan,14478,Bachelor,0.0,46489,1
+618,660,101709,Self-employed,0.148,19098,Car Purchase,Single,2,Renter,No Previous Loan,78,Bachelor,0.0,41954,0
+619,579,75766,Employed,0.111,6088,Personal Expenses,Married,1,Living with Parents,No Previous Loan,232,Master or above,0.0,27417,1
+620,482,33909,Self-employed,0.278,14046,Home Purchase,Married,1,Renter,Paid in Full,831,Bachelor,0.0,10215,0
+621,435,0,Unemployed,0.243,37854,Home Purchase,Married,5,Owner,Defaulted,236,High School,197784.28404256774,0,0
+622,787,37003,Employed,0.281,51902,Home Purchase,Single,1,Renter,Paid in Full,682,High School,0.0,18200,1
+623,476,0,Unemployed,0.266,43159,Education,Married,2,Renter,No Previous Loan,1018,Master or above,0.0,0,0
+624,800,20268,Self-employed,0.1,14478,Home Purchase,Single,2,Renter,Paid in Full,888,High School,556.6062208857259,9577,0
+625,699,167041,Self-employed,0.237,13610,Car Purchase,Single,2,Renter,No Previous Loan,4162,High School,0.0,72976,1
+626,599,38960,Employed,0.185,61188,Home Purchase,Single,0,Renter,No Previous Loan,352,Master or above,0.0,14585,0
+627,800,36323,Employed,0.149,5428,Personal Expenses,Married,2,Owner,No Previous Loan,1700,Master or above,0.0,18161,1
+628,799,79869,Self-employed,0.183,79821,Home Purchase,Married,3,Renter,Paid in Full,1900,High School,0.0,39884,1
+629,800,55699,Employed,0.293,11324,Personal Expenses,Married,4,Renter,No Previous Loan,612,High School,0.0,27849,1
+630,800,90724,Employed,0.232,13374,Home Purchase,Married,3,Living with Parents,Paid in Full,340,High School,0.0,45362,1
+631,765,23218,Employed,0.1,9517,Home Purchase,Married,2,Renter,Paid in Full,2425,Bachelor,0.0,11101,1
+632,599,43901,Employed,0.306,45610,Personal Expenses,Married,1,Living with Parents,Defaulted,93,Master or above,1821.7062445372644,14613,0
+633,721,14508,Employed,0.204,37059,Car Purchase,Married,1,Renter,No Previous Loan,728,High School,0.0,6537,1
+634,645,43377,Employed,0.379,10216,Personal Expenses,Single,4,Renter,No Previous Loan,682,High School,0.0,17486,0
+635,711,112635,Employed,0.113,41479,Car Purchase,Married,1,Living with Parents,Paid in Full,908,Bachelor,700.1861951120851,49351,1
+636,721,134741,Employed,0.291,14431,Car Purchase,Married,3,Renter,Defaulted,338,Bachelor,73013.68643041368,0,1
+637,738,147251,Self-employed,0.205,11549,Home Purchase,Single,0,Renter,Paid in Full,1123,Master or above,0.0,67919,1
+638,800,13933,Employed,0.224,14347,Education,Married,2,Renter,Paid in Full,1869,Bachelor,0.0,6966,1
+639,766,112144,Employed,0.144,9311,Education,Married,3,Owner,No Previous Loan,350,High School,0.0,53688,1
+640,753,69318,Employed,0.115,13559,Personal Expenses,Married,1,Renter,No Previous Loan,2133,High School,0.0,32622,1
+641,590,55003,Employed,0.266,36557,Personal Expenses,Divorced,3,Living with Parents,No Previous Loan,632,High School,0.0,20282,0
+642,530,89643,Employed,0.1,5221,Home Purchase,Single,5,Renter,Paid in Full,1370,High School,871.8561252270413,28822,1
+643,646,52126,Employed,0.171,13428,Home Purchase,Single,0,Renter,Paid in Full,1114,Master or above,0.0,21045,0
+644,628,138380,Employed,0.167,6113,Car Purchase,Married,4,Living with Parents,No Previous Loan,1833,High School,0.0,54314,1
+645,705,76502,Employed,0.1,17421,Car Purchase,Married,3,Renter,No Previous Loan,278,Bachelor,0.0,33708,1
+646,614,179518,Employed,0.142,8912,Home Purchase,Single,0,Renter,Defaulted,4052,High School,25269.46070691932,43620,1
+647,547,35457,Employed,0.278,15149,Education,Married,2,Renter,No Previous Loan,641,High School,0.0,12121,0
+648,652,67111,Employed,0.266,22744,Education,Married,1,Renter,Paid in Full,2398,Bachelor,0.0,27347,1
+649,713,89860,Employed,0.189,1472,Home Purchase,Divorced,2,Renter,Paid in Full,767,High School,0.0,40043,1
+650,727,46137,Employed,0.152,20959,Personal Expenses,Married,2,Owner,No Previous Loan,8236,High School,0.0,20963,1
+651,762,47923,Employed,0.257,21055,Education,Single,3,Renter,Paid in Full,248,Master or above,0.0,22823,1
+652,669,37503,Employed,0.263,12032,Car Purchase,Married,4,Renter,No Previous Loan,651,High School,0.0,15680,0
+653,743,70133,Employed,0.241,15837,Personal Expenses,Single,0,Owner,Defaulted,3290,Master or above,35758.39277202754,0,1
+654,673,78638,Employed,0.363,19962,Home Purchase,Married,1,Renter,No Previous Loan,990,Master or above,0.0,33077,1
+655,714,0,Unemployed,0.1,14847,Personal Expenses,Married,1,Renter,No Previous Loan,625,Bachelor,0.0,0,0
+656,512,46490,Self-employed,0.4,3114,Home Purchase,Married,3,Living with Parents,Paid in Full,2003,Bachelor,0.0,14876,0
+657,800,51952,Employed,0.255,17461,Education,Divorced,3,Renter,No Previous Loan,570,Master or above,0.0,25976,1
+658,774,26524,Self-employed,0.1,3024,Education,Married,1,Renter,Paid in Full,279,Bachelor,1277.8258004733161,11553,1
+659,631,0,Unemployed,0.103,30942,Home Purchase,Married,3,Renter,No Previous Loan,1841,Master or above,0.0,0,0
+660,773,138608,Self-employed,0.216,3675,Home Purchase,Single,1,Living with Parents,No Previous Loan,4224,Bachelor,0.0,66964,1
+661,657,60251,Employed,0.337,17427,Education,Divorced,0,Renter,Paid in Full,601,High School,0.0,24740,0
+662,742,94987,Employed,0.234,12151,Personal Expenses,Single,1,Renter,Paid in Full,1321,Bachelor,0.0,44050,1
+663,531,54794,Self-employed,0.169,6238,Car Purchase,Married,3,Renter,Paid in Full,2142,Master or above,0.0,18184,0
+664,705,0,Unemployed,0.1,10570,Personal Expenses,Married,1,Renter,Paid in Full,844,Bachelor,0.0,0,0
+665,547,0,Unemployed,0.203,50977,Home Purchase,Single,0,Renter,Paid in Full,220,Bachelor,0.0,0,0
+666,800,59010,Employed,0.119,7977,Personal Expenses,Married,1,Renter,No Previous Loan,5910,High School,0.0,29505,1
+667,782,85066,Self-employed,0.1,14437,Personal Expenses,Married,3,Renter,No Previous Loan,1175,Bachelor,0.0,41576,1
+668,708,31856,Employed,0.1,4224,Education,Single,4,Renter,No Previous Loan,1264,Bachelor,0.0,14096,1
+669,661,66003,Employed,0.199,5050,Home Purchase,Married,1,Living with Parents,No Previous Loan,2312,Bachelor,0.0,27267,1
+670,800,82222,Employed,0.1,2443,Personal Expenses,Single,1,Owner,Paid in Full,657,Master or above,0.0,41111,1
+671,749,33746,Employed,0.256,3571,Education,Married,1,Renter,No Previous Loan,2046,Master or above,0.0,15797,1
+672,722,153669,Employed,0.151,203816,Education,Married,3,Living with Parents,No Previous Loan,1519,Master or above,0.0,69343,1
+673,715,103202,Employed,0.194,6943,Car Purchase,Married,1,Living with Parents,No Previous Loan,1078,Bachelor,0.0,46118,1
+674,709,61738,Employed,0.272,14452,Education,Married,2,Living with Parents,No Previous Loan,211,High School,0.0,27357,1
+675,714,0,Unemployed,0.208,1328,Personal Expenses,Single,1,Owner,No Previous Loan,1010,High School,0.0,0,0
+676,685,52034,Employed,0.164,3653,Personal Expenses,Married,1,Renter,No Previous Loan,2534,Bachelor,0.0,22277,1
+677,502,0,Unemployed,0.277,5998,Personal Expenses,Married,1,Living with Parents,Paid in Full,394,Bachelor,0.0,0,0
+678,800,56096,Employed,0.1,94504,Home Purchase,Married,2,Living with Parents,Paid in Full,1493,High School,0.0,28048,1
+679,639,42752,Self-employed,0.198,23378,Education,Married,2,Renter,Paid in Full,3572,High School,0.0,17074,0
+680,800,51522,Employed,0.1,11250,Car Purchase,Married,3,Renter,Paid in Full,670,Master or above,0.0,25761,1
+681,594,70020,Employed,0.1,8112,Personal Expenses,Single,1,Living with Parents,No Previous Loan,1207,High School,0.0,25994,1
+682,640,0,Unemployed,0.342,20817,Personal Expenses,Married,1,Owner,No Previous Loan,465,Bachelor,0.0,0,0
+683,705,97703,Employed,0.199,5262,Personal Expenses,Married,4,Renter,No Previous Loan,200,High School,0.0,43050,1
+684,545,90679,Employed,0.1,19021,Education,Married,4,Living with Parents,Defaulted,1879,Bachelor,12035.227079181574,18852,1
+685,601,85048,Employed,0.246,12484,Personal Expenses,Divorced,1,Owner,Defaulted,4091,Bachelor,300.4830029102391,31645,1
+686,800,66154,Employed,0.208,2919,Personal Expenses,Single,3,Owner,No Previous Loan,1210,Bachelor,0.0,33077,1
+687,761,47351,Self-employed,0.126,6505,Home Purchase,Married,3,Owner,Paid in Full,3381,High School,0.0,22521,1
+688,575,26829,Employed,0.1,8159,Education,Married,2,Renter,No Previous Loan,2335,High School,0.0,9641,0
+689,788,89263,Employed,0.35,2123,Education,Married,1,Owner,Paid in Full,229,High School,908.6184704310442,43053,1
+690,800,47092,Employed,0.207,4512,Education,Single,4,Renter,Paid in Full,1238,High School,0.0,23546,1
+691,528,94638,Self-employed,0.1,10190,Home Purchase,Single,3,Renter,Paid in Full,4567,High School,965.5069852634103,30265,0
+692,800,65242,Employed,0.104,6110,Personal Expenses,Single,1,Owner,Paid in Full,699,Bachelor,0.0,32621,1
+693,779,97014,Employed,0.114,7977,Home Purchase,Married,2,Owner,Paid in Full,535,Bachelor,0.0,47233,1
+694,535,0,Unemployed,0.12,9908,Education,Single,2,Living with Parents,No Previous Loan,502,Master or above,0.0,0,0
+695,659,0,Unemployed,0.201,103394,Personal Expenses,Single,1,Renter,No Previous Loan,2989,High School,0.0,0,0
+696,719,74731,Employed,0.384,9442,Personal Expenses,Married,1,Owner,No Previous Loan,240,Bachelor,0.0,33582,1
+697,800,46309,Employed,0.227,14628,Car Purchase,Married,2,Renter,Paid in Full,355,Bachelor,1231.162524517678,21923,1
+698,611,24495,Employed,0.197,11227,Home Purchase,Single,1,Renter,No Previous Loan,3736,Master or above,0.0,9354,0
+699,624,79293,Employed,0.4,4751,Personal Expenses,Married,4,Renter,No Previous Loan,928,High School,0.0,30924,0
+700,708,0,Unemployed,0.282,8714,Education,Married,2,Renter,Paid in Full,4997,Bachelor,0.0,0,0
+701,783,183945,Self-employed,0.216,65875,Home Purchase,Married,1,Renter,Paid in Full,942,High School,0.0,90018,1
+702,572,46553,Employed,0.237,17052,Home Purchase,Single,1,Living with Parents,Paid in Full,7710,Bachelor,1013.8312792256169,15628,0
+703,484,0,Unemployed,0.199,15959,Home Purchase,Married,1,Renter,Paid in Full,1834,Bachelor,0.0,0,0
+704,594,74702,Employed,0.187,21372,Home Purchase,Single,1,Owner,Paid in Full,394,Bachelor,848.8687501118804,26884,1
+705,751,41891,Employed,0.113,8528,Home Purchase,Single,1,Renter,Paid in Full,330,Bachelor,0.0,19662,1
+706,694,73607,Employed,0.143,7543,Personal Expenses,Married,2,Renter,Paid in Full,2639,High School,0.0,31927,1
+707,687,42770,Employed,0.29,15813,Home Purchase,Single,0,Renter,Paid in Full,276,High School,0.0,18364,1
+708,800,89866,Employed,0.4,11382,Home Purchase,Married,2,Renter,No Previous Loan,1138,Bachelor,0.0,44933,1
+709,800,101991,Employed,0.182,15775,Car Purchase,Single,2,Owner,No Previous Loan,1782,Bachelor,0.0,50995,1
+710,536,68317,Employed,0.146,19374,Personal Expenses,Single,0,Renter,No Previous Loan,352,Bachelor,0.0,22886,1
+711,568,58479,Self-employed,0.228,14597,Personal Expenses,Single,2,Renter,No Previous Loan,815,Bachelor,0.0,20760,0
+712,800,0,Unemployed,0.182,18367,Car Purchase,Single,1,Owner,No Previous Loan,3851,Bachelor,0.0,0,0
+713,800,51705,Employed,0.215,37154,Personal Expenses,Married,2,Renter,No Previous Loan,478,Bachelor,0.0,25852,1
+714,710,60730,Employed,0.245,12421,Car Purchase,Single,1,Living with Parents,No Previous Loan,392,Master or above,0.0,26948,1
+715,719,47745,Employed,0.2,9972,Education,Married,2,Renter,Paid in Full,2253,Master or above,0.0,21455,1
+716,716,59910,Self-employed,0.241,7437,Home Purchase,Single,6,Renter,No Previous Loan,651,Master or above,0.0,26809,1
+717,489,111082,Self-employed,0.136,8003,Personal Expenses,Single,1,Owner,Defaulted,512,Master or above,39168.063279385125,0,0
+718,598,111543,Employed,0.33,6696,Home Purchase,Single,0,Renter,No Previous Loan,1572,Master or above,0.0,41689,1
+719,455,58025,Self-employed,0.1,21491,Car Purchase,Single,1,Renter,No Previous Loan,835,Bachelor,0.0,16500,0
+720,634,72202,Employed,0.4,8348,Education,Married,2,Renter,No Previous Loan,715,High School,0.0,28610,0
+721,641,79804,Employed,0.304,3889,Education,Single,2,Living with Parents,No Previous Loan,1924,Master or above,0.0,31971,1
+722,662,53302,Employed,0.1,4273,Home Purchase,Single,0,Renter,Paid in Full,4017,Master or above,0.0,22053,0
+723,598,94175,Self-employed,0.245,12992,Home Purchase,Single,0,Owner,No Previous Loan,348,High School,0.0,35197,1
+724,536,0,Unemployed,0.241,3921,Education,Married,2,Renter,No Previous Loan,301,Master or above,0.0,0,0
+725,799,128135,Self-employed,0.304,15524,Personal Expenses,Single,0,Renter,No Previous Loan,527,Bachelor,0.0,63987,1
+726,800,42190,Employed,0.201,16485,Home Purchase,Single,0,Renter,Paid in Full,273,Bachelor,0.0,21095,1
+727,800,73544,Employed,0.223,7791,Home Purchase,Single,1,Owner,Paid in Full,525,High School,0.0,36772,1
+728,581,78615,Employed,0.253,1631,Car Purchase,Single,0,Renter,No Previous Loan,722,Bachelor,0.0,28547,1
+729,800,64060,Self-employed,0.287,3222,Personal Expenses,Single,2,Renter,Paid in Full,682,Bachelor,0.0,32030,1
+730,598,36993,Self-employed,0.274,66038,Education,Single,1,Renter,No Previous Loan,521,Bachelor,0.0,13826,0
+731,506,50193,Self-employed,0.254,13227,Personal Expenses,Married,5,Renter,Paid in Full,500,Master or above,0.0,15873,0
+732,607,113242,Self-employed,0.304,16778,Home Purchase,Married,3,Renter,No Previous Loan,284,Bachelor,0.0,42961,0
+733,608,63186,Employed,0.2,12130,Home Purchase,Single,2,Renter,Defaulted,968,Master or above,17140.950423695074,6869,1
+734,766,42593,Employed,0.326,14661,Car Purchase,Married,3,Owner,Paid in Full,821,Bachelor,1347.1864450473206,19044,1
+735,547,0,Unemployed,0.192,20766,Personal Expenses,Single,4,Renter,No Previous Loan,850,High School,0.0,0,0
+736,800,102385,Employed,0.149,2796,Home Purchase,Single,1,Owner,Paid in Full,1756,Bachelor,0.0,51192,1
+737,575,90985,Employed,0.234,26033,Education,Married,1,Owner,No Previous Loan,1805,Bachelor,0.0,32697,1
+738,563,94743,Employed,0.183,8773,Personal Expenses,Single,1,Renter,Paid in Full,1428,Bachelor,0.0,33337,1
+739,667,87164,Employed,0.235,10248,Personal Expenses,Married,2,Living with Parents,No Previous Loan,969,Bachelor,0.0,36336,1
+740,581,40274,Employed,0.1,2454,Home Purchase,Single,0,Renter,No Previous Loan,314,High School,0.0,14624,0
+741,800,41804,Self-employed,0.1,32169,Education,Married,2,Owner,No Previous Loan,854,High School,0.0,20902,1
+742,579,65096,Self-employed,0.125,99488,Education,Single,1,Living with Parents,Defaulted,303,High School,154924.9640026724,0,0
+743,655,29121,Self-employed,0.1,5440,Education,Single,3,Renter,No Previous Loan,810,Bachelor,0.0,11921,0
+744,763,53265,Employed,0.223,4891,Car Purchase,Married,1,Renter,No Previous Loan,1963,Master or above,0.0,25400,1
+745,800,106413,Employed,0.249,3111,Home Purchase,Single,2,Renter,No Previous Loan,5067,Bachelor,0.0,53206,1
+746,558,81813,Employed,0.314,2115,Home Purchase,Married,1,Renter,No Previous Loan,703,High School,0.0,28532,1
+747,775,47618,Employed,0.269,3812,Personal Expenses,Single,0,Renter,Paid in Full,676,Bachelor,0.0,23064,1
+748,685,88558,Employed,0.218,22973,Car Purchase,Single,0,Owner,Paid in Full,193,Bachelor,0.0,37913,1
+749,800,61625,Employed,0.191,94644,Home Purchase,Married,2,Living with Parents,Paid in Full,2302,Bachelor,0.0,30812,1
+750,724,64188,Employed,0.27,17353,Home Purchase,Single,1,Renter,Defaulted,3650,High School,67303.27862215904,0,1
+751,725,43527,Employed,0.113,18761,Home Purchase,Married,2,Renter,Paid in Full,267,Master or above,0.0,19723,1
+752,664,0,Unemployed,0.243,1342,Personal Expenses,Single,3,Owner,No Previous Loan,1208,High School,0.0,0,0
+753,730,154918,Self-employed,0.279,31790,Personal Expenses,Married,3,Living with Parents,No Previous Loan,461,Bachelor,0.0,70681,1
+754,639,34556,Employed,0.179,14051,Car Purchase,Single,0,Renter,No Previous Loan,129,Master or above,0.0,13800,0
+755,708,197828,Self-employed,0.283,4586,Personal Expenses,Married,2,Renter,Paid in Full,767,Master or above,0.0,87538,1
+756,722,50179,Employed,0.281,86799,Home Purchase,Single,0,Renter,Paid in Full,601,Bachelor,0.0,22643,1
+757,735,0,Unemployed,0.221,10190,Personal Expenses,Married,1,Renter,No Previous Loan,4254,High School,0.0,0,0
+758,644,39775,Employed,0.123,8728,Personal Expenses,Single,2,Renter,No Previous Loan,1378,Bachelor,0.0,16009,0
+759,800,172565,Employed,0.303,7011,Car Purchase,Divorced,1,Renter,Paid in Full,137,High School,0.0,86282,1
+760,544,131123,Employed,0.29,5126,Car Purchase,Single,1,Living with Parents,No Previous Loan,1127,Master or above,0.0,44581,1
+761,623,0,Unemployed,0.1,13996,Car Purchase,Single,1,Owner,Paid in Full,310,Bachelor,0.0,0,0
+762,478,35827,Employed,0.269,8597,Education,Married,3,Living with Parents,Defaulted,1723,Bachelor,20984.099022116123,0,0
+763,800,80726,Employed,0.1,12982,Car Purchase,Single,2,Renter,Paid in Full,180,Bachelor,0.0,40363,1
+764,647,96978,Employed,0.1,23203,Home Purchase,Single,0,Renter,Defaulted,438,High School,6750.550033795193,32464,1
+765,613,49866,Employed,0.27,20360,Personal Expenses,Married,5,Renter,No Previous Loan,816,High School,0.0,19104,0
+766,799,111059,Self-employed,0.125,82902,Home Purchase,Single,0,Renter,No Previous Loan,501,Bachelor,0.0,55460,1
+767,800,49417,Employed,0.33,7366,Personal Expenses,Married,2,Owner,No Previous Loan,311,High School,0.0,24708,1
+768,455,38189,Employed,0.1,8033,Car Purchase,Divorced,1,Renter,Defaulted,974,High School,450.4996143775187,10409,0
+769,430,87071,Employed,0.298,16499,Education,Single,2,Living with Parents,No Previous Loan,4008,Bachelor,0.0,23400,1
+770,737,83675,Employed,0.287,29586,Car Purchase,Divorced,1,Living with Parents,No Previous Loan,708,High School,0.0,38542,1
+771,538,84847,Employed,0.196,4706,Education,Married,2,Renter,No Previous Loan,2877,High School,0.0,28529,1
+772,699,68663,Self-employed,0.148,44079,Personal Expenses,Married,1,Renter,Paid in Full,1522,High School,0.0,29997,1
+773,568,131926,Employed,0.286,9945,Home Purchase,Single,0,Renter,No Previous Loan,999,Bachelor,0.0,46833,1
+774,766,70161,Employed,0.113,18618,Home Purchase,Single,0,Living with Parents,Paid in Full,2154,High School,0.0,33589,1
+775,772,83855,Employed,0.107,38951,Education,Married,1,Renter,No Previous Loan,138,Bachelor,0.0,40460,1
+776,461,44385,Employed,0.177,39744,Home Purchase,Single,0,Living with Parents,Defaulted,777,Bachelor,77728.32011667636,0,0
+777,605,53047,Employed,0.23,39530,Car Purchase,Single,1,Owner,Defaulted,459,Bachelor,857.0414565776479,19201,0
+778,728,63186,Employed,0.1,7238,Education,Single,0,Renter,No Previous Loan,2584,Bachelor,0.0,28749,1
+779,577,30256,Employed,0.4,32578,Personal Expenses,Single,1,Renter,Paid in Full,2391,Master or above,549.8439940792758,10361,0
+780,800,46343,Employed,0.1,5261,Car Purchase,Married,1,Renter,Paid in Full,2113,Master or above,0.0,23171,1
+781,555,53030,Employed,0.171,13460,Home Purchase,Single,0,Living with Parents,No Previous Loan,673,High School,0.0,18394,0
+782,723,0,Unemployed,0.233,5755,Home Purchase,Married,1,Renter,Paid in Full,454,High School,0.0,0,0
+783,509,91207,Employed,0.186,37363,Education,Married,1,Renter,No Previous Loan,967,Bachelor,0.0,29015,1
+784,800,109985,Employed,0.215,48213,Home Purchase,Married,3,Renter,Paid in Full,5970,Master or above,0.0,54992,1
+785,543,50245,Self-employed,0.207,8069,Home Purchase,Divorced,2,Renter,No Previous Loan,114,High School,0.0,17051,0
+786,649,75348,Employed,0.1,16741,Home Purchase,Single,0,Owner,Paid in Full,4921,Bachelor,929.7415303599016,29633,1
+787,800,144907,Employed,0.284,20235,Home Purchase,Single,1,Owner,No Previous Loan,2868,Master or above,0.0,72453,1
+788,562,0,Unemployed,0.236,43280,Education,Single,0,Renter,No Previous Loan,729,High School,0.0,0,0
+789,420,55623,Self-employed,0.19,35605,Home Purchase,Single,3,Renter,Paid in Full,6900,High School,711.5664637789021,13889,0
+790,592,70512,Employed,0.102,12059,Personal Expenses,Single,2,Living with Parents,Paid in Full,1127,Bachelor,0.0,26089,1
+791,777,84415,Employed,0.314,15676,Personal Expenses,Married,1,Owner,Defaulted,685,Master or above,6195.5770167257515,34798,1
+792,674,49902,Employed,0.145,39553,Personal Expenses,Married,1,Renter,No Previous Loan,1649,Bachelor,0.0,21021,0
+793,722,44437,Employed,0.393,84868,Personal Expenses,Single,0,Renter,Paid in Full,999,High School,0.0,20052,0
+794,615,35571,Self-employed,0.119,4892,Car Purchase,Divorced,0,Renter,No Previous Loan,2988,Bachelor,0.0,13672,0
+795,576,27164,Self-employed,0.1,7561,Personal Expenses,Single,0,Renter,Paid in Full,3544,Bachelor,0.0,9779,0
+796,800,106044,Employed,0.1,786,Home Purchase,Married,3,Renter,Paid in Full,805,High School,0.0,53022,1
+797,466,178999,Self-employed,0.308,20560,Personal Expenses,Married,4,Living with Parents,No Previous Loan,436,Bachelor,0.0,52133,0
+798,658,115121,Employed,0.169,44351,Education,Single,0,Renter,Paid in Full,1482,High School,0.0,47343,1
+799,410,71854,Self-employed,0.219,67275,Car Purchase,Married,2,Renter,Defaulted,4833,Bachelor,185018.82177698563,0,0
+800,549,51760,Self-employed,0.262,8145,Car Purchase,Married,4,Renter,No Previous Loan,342,Bachelor,0.0,17760,0
+801,643,37879,Employed,0.236,41538,Education,Single,1,Renter,No Previous Loan,516,High School,0.0,15222,0
+802,501,33093,Employed,0.317,27564,Education,Married,2,Renter,No Previous Loan,2650,Bachelor,0.0,10362,0
+803,796,41839,Self-employed,0.263,75115,Personal Expenses,Single,1,Owner,No Previous Loan,3359,High School,0.0,20814,1
+804,541,50626,Employed,0.212,2908,Personal Expenses,Single,0,Renter,Defaulted,446,Master or above,9338.747181138822,7779,0
+805,638,63527,Self-employed,0.195,3271,Personal Expenses,Married,1,Renter,Paid in Full,401,Bachelor,0.0,25331,0
+806,800,30527,Employed,0.344,27457,Car Purchase,Single,0,Renter,Paid in Full,253,Bachelor,330.60312504569504,14932,1
+807,800,50240,Employed,0.239,10030,Car Purchase,Single,2,Renter,Paid in Full,154,High School,0.0,25120,1
+808,531,101599,Employed,0.318,8751,Home Purchase,Single,3,Owner,Defaulted,649,Bachelor,13850.646491507514,19867,1
+809,529,27417,Self-employed,0.105,34623,Personal Expenses,Married,2,Renter,Defaulted,2067,Bachelor,28955.3890020946,0,0
+810,727,94098,Employed,0.158,6871,Personal Expenses,Married,4,Renter,No Previous Loan,2204,Bachelor,0.0,42755,1
+811,790,29938,Employed,0.298,7925,Education,Married,1,Living with Parents,Paid in Full,298,Bachelor,2967.2839249461244,11814,1
+812,613,22233,Employed,0.196,12396,Car Purchase,Single,1,Renter,No Previous Loan,2069,High School,0.0,8518,0
+813,639,113592,Employed,0.38,18254,Car Purchase,Married,3,Renter,Defaulted,1078,Bachelor,10433.513921341848,34932,1
+814,800,81736,Employed,0.136,86005,Personal Expenses,Married,3,Renter,No Previous Loan,2764,Bachelor,0.0,40868,1
+815,609,151868,Employed,0.275,15928,Home Purchase,Single,5,Renter,No Previous Loan,1833,High School,0.0,57804,1
+816,707,35753,Self-employed,0.326,12724,Personal Expenses,Single,1,Owner,Paid in Full,5068,Bachelor,0.0,15798,1
+817,567,0,Unemployed,0.325,31852,Education,Single,0,Renter,Paid in Full,112,High School,0.0,0,0
+818,690,94182,Employed,0.4,12412,Home Purchase,Single,1,Renter,No Previous Loan,3540,Bachelor,0.0,40615,1
+819,623,27783,Employed,0.24,18509,Education,Single,2,Owner,Paid in Full,265,Bachelor,0.0,10818,0
+820,720,18028,Employed,0.1,18387,Car Purchase,Divorced,0,Renter,No Previous Loan,174,High School,0.0,8112,1
+821,602,0,Unemployed,0.1,7216,Home Purchase,Married,1,Renter,No Previous Loan,585,Bachelor,0.0,0,0
+822,626,48067,Employed,0.258,32655,Car Purchase,Married,2,Renter,No Previous Loan,220,High School,0.0,18806,0
+823,715,75895,Self-employed,0.1,19518,Home Purchase,Married,2,Owner,Paid in Full,1808,High School,0.0,33915,1
+824,657,40576,Employed,0.246,5569,Personal Expenses,Married,3,Renter,No Previous Loan,977,Bachelor,0.0,16661,0
+825,800,48081,Employed,0.166,15162,Education,Married,1,Renter,No Previous Loan,1022,High School,0.0,24040,1
+826,800,49308,Self-employed,0.321,4932,Home Purchase,Married,1,Owner,Paid in Full,456,Bachelor,583.9985430029492,24070,1
+827,551,134720,Employed,0.326,26199,Home Purchase,Married,2,Living with Parents,No Previous Loan,377,High School,0.0,46394,1
+828,466,48060,Self-employed,0.38,19370,Car Purchase,Married,2,Living with Parents,No Previous Loan,4806,High School,0.0,13997,0
+829,733,73927,Employed,0.19,122394,Personal Expenses,Married,2,Renter,Paid in Full,1290,High School,0.0,33867,1
+830,800,59375,Employed,0.188,12944,Personal Expenses,Single,1,Owner,Paid in Full,622,High School,0.0,29687,1
+831,531,34007,Self-employed,0.1,13842,Personal Expenses,Single,0,Owner,Defaulted,331,High School,45099.91670389334,0,0
+832,717,61611,Employed,0.139,4866,Personal Expenses,Married,3,Renter,Paid in Full,1081,Bachelor,0.0,27609,1
+833,400,45845,Employed,0.129,8148,Car Purchase,Married,4,Living with Parents,No Previous Loan,465,Bachelor,0.0,11461,0
+834,589,67263,Employed,0.163,7974,Home Purchase,Single,1,Renter,Paid in Full,322,Bachelor,0.0,24761,1
+835,800,24218,Employed,0.315,1268,Home Purchase,Single,1,Renter,Paid in Full,810,High School,0.0,12109,1
+836,684,41407,Self-employed,0.386,5633,Home Purchase,Divorced,3,Renter,Paid in Full,3207,Bachelor,0.0,17701,0
+837,392,29730,Employed,0.246,397691,Personal Expenses,Single,2,Renter,No Previous Loan,2460,Bachelor,0.0,7283,0
+838,658,0,Unemployed,0.373,18910,Personal Expenses,Married,1,Owner,Paid in Full,1338,High School,0.0,0,0
+839,756,35994,Employed,0.181,143597,Home Purchase,Married,1,Renter,No Previous Loan,972,Bachelor,0.0,17007,1
+840,437,57470,Employed,0.304,6596,Education,Married,1,Renter,Defaulted,2759,Bachelor,326472.80490436824,0,0
+841,800,37211,Employed,0.237,11845,Personal Expenses,Married,4,Renter,No Previous Loan,7820,High School,0.0,18605,1
+842,639,0,Unemployed,0.2,7229,Education,Married,2,Renter,Paid in Full,2711,Bachelor,0.0,0,0
+843,745,38129,Employed,0.323,17217,Personal Expenses,Married,1,Renter,No Previous Loan,1181,High School,0.0,17753,1
+844,800,151936,Self-employed,0.1,20535,Personal Expenses,Married,3,Owner,Paid in Full,1056,High School,0.0,75968,1
+845,643,35245,Self-employed,0.259,22316,Personal Expenses,Single,0,Renter,Paid in Full,3121,High School,0.0,14164,0
+846,768,116560,Employed,0.172,10104,Education,Single,0,Renter,No Previous Loan,3042,High School,0.0,55948,1
+847,667,65215,Employed,0.235,11031,Home Purchase,Married,1,Renter,No Previous Loan,621,High School,0.0,27186,1
+848,610,0,Unemployed,0.159,14026,Home Purchase,Single,0,Living with Parents,No Previous Loan,459,Master or above,0.0,0,0
+849,526,238222,Employed,0.202,9037,Car Purchase,Single,2,Renter,No Previous Loan,449,High School,0.0,78315,1
+850,573,101068,Employed,0.146,146005,Personal Expenses,Married,3,Owner,No Previous Loan,1557,High School,0.0,36194,1
+851,387,36245,Employed,0.181,10244,Home Purchase,Single,1,Renter,Defaulted,1640,High School,113732.25902139039,0,0
+852,721,39450,Employed,0.282,35140,Personal Expenses,Married,2,Owner,No Previous Loan,450,High School,0.0,17777,1
+853,594,123027,Self-employed,0.218,7228,Home Purchase,Single,0,Renter,No Previous Loan,2272,Bachelor,0.0,45673,0
+854,767,91229,Employed,0.138,12477,Home Purchase,Divorced,1,Owner,No Previous Loan,421,Bachelor,0.0,43732,1
+855,665,36157,Self-employed,0.369,26737,Personal Expenses,Married,1,Renter,No Previous Loan,481,Bachelor,0.0,15027,0
+856,679,60033,Employed,0.247,4209,Home Purchase,Married,3,Renter,No Previous Loan,2506,High School,0.0,25476,1
+857,736,51137,Employed,0.37,5553,Home Purchase,Single,0,Renter,Paid in Full,1133,Bachelor,0.0,23523,1
+858,566,200760,Employed,0.221,24167,Home Purchase,Married,1,Owner,Defaulted,391,High School,351836.2919771366,0,1
+859,722,50071,Employed,0.4,21607,Car Purchase,Married,1,Living with Parents,Paid in Full,1791,Bachelor,0.0,22594,1
+860,599,42799,Employed,0.1,3962,Home Purchase,Married,1,Living with Parents,No Previous Loan,261,High School,0.0,16022,0
+861,667,0,Unemployed,0.197,3829,Education,Single,2,Renter,No Previous Loan,928,Bachelor,0.0,0,0
+862,694,34881,Employed,0.241,5684,Car Purchase,Married,1,Renter,No Previous Loan,1012,High School,0.0,15129,1
+863,800,56900,Employed,0.238,7858,Car Purchase,Married,2,Renter,Paid in Full,511,High School,0.0,28450,1
+864,769,0,Unemployed,0.4,29961,Education,Single,0,Owner,No Previous Loan,716,Bachelor,0.0,0,0
+865,631,34912,Employed,0.233,58779,Education,Married,4,Renter,Defaulted,1001,Master or above,30938.44408887435,0,0
+866,800,91026,Employed,0.376,28809,Home Purchase,Married,2,Renter,No Previous Loan,7182,Bachelor,0.0,45513,1
+867,794,109676,Employed,0.1,8941,Home Purchase,Single,0,Owner,Paid in Full,898,High School,0.0,54426,1
+868,800,81734,Employed,0.1,8219,Home Purchase,Single,0,Living with Parents,No Previous Loan,2136,Bachelor,0.0,40867,1
+869,482,61919,Self-employed,0.317,13826,Education,Married,1,Renter,No Previous Loan,723,High School,0.0,18653,0
+870,557,0,Unemployed,0.194,25999,Personal Expenses,Married,2,Living with Parents,Paid in Full,425,High School,1161.3801487639753,0,0
+871,798,16346,Self-employed,0.226,9288,Home Purchase,Single,1,Renter,Paid in Full,712,High School,0.0,8152,0
+872,769,40258,Employed,0.1,21553,Education,Single,2,Owner,Paid in Full,2642,Bachelor,0.0,19349,1
+873,625,55282,Employed,0.1,10893,Personal Expenses,Single,3,Living with Parents,No Previous Loan,943,Bachelor,0.0,21594,0
+874,750,54356,Self-employed,0.275,1481,Education,Married,4,Living with Parents,Paid in Full,1392,Bachelor,0.0,25479,1
+875,629,32768,Self-employed,0.27,159574,Home Purchase,Married,2,Owner,No Previous Loan,857,High School,0.0,12881,0
+876,560,80298,Employed,0.33,5376,Home Purchase,Single,1,Renter,Paid in Full,830,High School,0.0,28104,0
+877,749,56956,Self-employed,0.38,14292,Car Purchase,Single,0,Renter,No Previous Loan,525,High School,0.0,26662,0
+878,708,31206,Employed,0.1,18401,Personal Expenses,Single,0,Renter,No Previous Loan,1346,Bachelor,0.0,13808,1
+879,800,39727,Employed,0.1,9001,Home Purchase,Single,0,Owner,Paid in Full,92,High School,0.0,19863,1
+880,433,66662,Employed,0.19,41503,Personal Expenses,Single,0,Living with Parents,No Previous Loan,188,High School,0.0,18040,1
+881,614,29838,Self-employed,0.4,12459,Home Purchase,Single,1,Renter,No Previous Loan,2187,Bachelor,0.0,11450,0
+882,788,36866,Employed,0.138,32626,Home Purchase,Single,3,Living with Parents,No Previous Loan,290,Master or above,0.0,18156,1
+883,548,112526,Employed,0.149,5286,Car Purchase,Married,3,Renter,No Previous Loan,1531,Master or above,0.0,38540,1
+884,586,27767,Employed,0.2,44064,Home Purchase,Single,0,Living with Parents,No Previous Loan,2976,Master or above,0.0,10169,0
+885,736,60013,Employed,0.149,101163,Home Purchase,Single,1,Owner,Paid in Full,292,Master or above,0.0,27605,1
+886,800,131657,Employed,0.182,24024,Car Purchase,Single,0,Renter,Paid in Full,414,Master or above,0.0,65828,1
+887,779,71043,Self-employed,0.149,18805,Home Purchase,Single,2,Renter,Paid in Full,1756,Bachelor,0.0,34589,1
+888,800,28959,Employed,0.14,31940,Home Purchase,Married,1,Owner,Paid in Full,1578,High School,0.0,14479,1
+889,745,181357,Employed,0.1,11654,Home Purchase,Married,2,Owner,Defaulted,2038,Bachelor,3070.7877329188123,81373,1
+890,780,120786,Employed,0.226,28105,Personal Expenses,Single,1,Renter,Paid in Full,419,Bachelor,0.0,58883,1
+891,619,54918,Employed,0.371,19082,Personal Expenses,Single,0,Renter,No Previous Loan,448,High School,0.0,21246,0
+892,577,98542,Employed,0.208,9961,Personal Expenses,Married,1,Renter,No Previous Loan,2099,Master or above,0.0,35536,1
+893,611,0,Unemployed,0.104,45169,Home Purchase,Divorced,0,Renter,No Previous Loan,1592,Master or above,0.0,0,0
+894,764,34270,Employed,0.242,42355,Personal Expenses,Single,0,Renter,No Previous Loan,790,High School,0.0,16363,1
+895,669,82277,Self-employed,0.1,10138,Personal Expenses,Single,1,Renter,No Previous Loan,116,Master or above,0.0,34402,1
+896,674,32086,Employed,0.1,54193,Home Purchase,Single,3,Living with Parents,No Previous Loan,957,High School,0.0,13516,0
+897,717,26283,Employed,0.169,23197,Home Purchase,Married,1,Renter,Paid in Full,905,Master or above,828.8496530881524,10949,1
+898,800,67551,Employed,0.286,14654,Home Purchase,Single,1,Renter,Paid in Full,492,Master or above,0.0,33775,1
+899,746,55616,Employed,0.142,14158,Personal Expenses,Married,1,Living with Parents,Paid in Full,9031,Master or above,905.8864254237968,25025,1
+900,561,170663,Employed,0.346,84002,Home Purchase,Single,0,Renter,Paid in Full,1009,High School,0.0,59838,0
+901,546,132293,Employed,0.1,3918,Education,Married,1,Renter,Defaulted,1729,High School,3659.003143204261,41485,1
+902,705,40278,Employed,0.358,15910,Personal Expenses,Married,1,Renter,No Previous Loan,1496,Master or above,0.0,17747,1
+903,760,96745,Self-employed,0.301,4219,Home Purchase,Single,3,Living with Parents,Paid in Full,2946,Master or above,0.0,45953,1
+904,714,48593,Self-employed,0.162,25230,Education,Single,1,Owner,Paid in Full,1834,High School,0.0,21684,1
+905,682,45213,Employed,0.174,3931,Personal Expenses,Single,1,Owner,No Previous Loan,11258,Bachelor,0.0,19272,1
+906,776,75609,Employed,0.1,11992,Education,Single,2,Living with Parents,No Previous Loan,2590,Bachelor,0.0,36670,1
+907,800,84929,Employed,0.12,3384,Car Purchase,Married,2,Owner,Paid in Full,2943,High School,0.0,42464,1
+908,650,31235,Self-employed,0.274,5908,Personal Expenses,Single,2,Owner,No Previous Loan,174,Master or above,0.0,12689,0
+909,629,78576,Self-employed,0.107,18318,Home Purchase,Single,2,Living with Parents,No Previous Loan,968,Master or above,0.0,30890,1
+910,671,34700,Employed,0.288,3511,Car Purchase,Single,1,Renter,No Previous Loan,354,High School,0.0,14552,0
+911,585,177082,Employed,0.269,3322,Personal Expenses,Divorced,1,Living with Parents,Paid in Full,929,Master or above,0.0,64745,1
+912,717,61958,Employed,0.302,124136,Personal Expenses,Married,1,Living with Parents,Paid in Full,1669,Master or above,0.0,27764,1
+913,696,51584,Self-employed,0.179,26361,Personal Expenses,Married,1,Renter,Paid in Full,723,Master or above,622.5701481748187,21816,1
+914,642,115837,Employed,0.202,26971,Education,Single,1,Renter,Paid in Full,512,Bachelor,0.0,46479,1
+915,800,212494,Employed,0.1,14765,Personal Expenses,Single,0,Renter,No Previous Loan,1886,High School,0.0,106247,1
+916,800,55259,Self-employed,0.339,7560,Car Purchase,Single,2,Renter,Paid in Full,4563,Bachelor,861.771494908213,26767,0
+917,379,28416,Employed,0.348,6591,Home Purchase,Divorced,0,Renter,Paid in Full,1655,High School,0.0,6731,0
+918,800,45302,Employed,0.274,6480,Car Purchase,Single,1,Renter,Paid in Full,1071,High School,0.0,22651,1
+919,776,54388,Employed,0.235,1959,Education,Married,1,Renter,Paid in Full,1155,Bachelor,1237.6024217394313,25140,1
+920,618,60523,Employed,0.189,17927,Personal Expenses,Divorced,0,Renter,No Previous Loan,665,Bachelor,0.0,23377,1
+921,800,66469,Employed,0.251,4874,Personal Expenses,Single,1,Owner,Paid in Full,975,Bachelor,766.943728675917,32467,1
+922,472,34592,Self-employed,0.197,9363,Car Purchase,Single,3,Renter,No Previous Loan,632,Bachelor,0.0,10204,0
+923,634,43366,Self-employed,0.143,39303,Personal Expenses,Single,1,Renter,No Previous Loan,668,High School,0.0,17183,0
+924,695,60091,Employed,0.187,48543,Personal Expenses,Married,3,Renter,Paid in Full,1198,Bachelor,1383.1430757670541,24718,1
+925,681,24799,Employed,0.252,38236,Personal Expenses,Married,2,Renter,No Previous Loan,657,Master or above,0.0,10555,1
+926,601,87591,Employed,0.255,21026,Car Purchase,Single,1,Owner,Paid in Full,1166,Bachelor,0.0,32901,1
+927,602,36995,Employed,0.336,135945,Personal Expenses,Divorced,2,Living with Parents,Paid in Full,1277,Bachelor,0.0,13919,0
+928,576,109300,Employed,0.163,8035,Education,Married,2,Renter,No Previous Loan,1434,Master or above,0.0,39348,1
+929,458,48226,Employed,0.339,13232,Education,Single,1,Renter,Defaulted,367,Bachelor,53110.323649800295,0,0
+930,419,15797,Employed,0.169,50042,Home Purchase,Married,1,Renter,Defaulted,1296,Bachelor,20850.676610002585,0,0
+931,703,93909,Self-employed,0.105,6884,Personal Expenses,Divorced,2,Renter,Paid in Full,308,High School,1439.60218068178,39821,1
+932,767,40812,Self-employed,0.339,9673,Education,Single,1,Living with Parents,Paid in Full,737,High School,0.0,19564,0
+933,496,56146,Self-employed,0.17,123567,Personal Expenses,Single,0,Renter,No Previous Loan,537,Bachelor,0.0,17405,0
+934,548,72278,Employed,0.1,43124,Personal Expenses,Single,1,Renter,No Previous Loan,2413,High School,0.0,24755,1
+935,597,114675,Employed,0.4,10872,Home Purchase,Single,1,Living with Parents,No Previous Loan,2213,Bachelor,0.0,42788,1
+936,777,179437,Employed,0.322,5136,Car Purchase,Single,0,Renter,No Previous Loan,1060,Master or above,0.0,87139,1
+937,618,50557,Employed,0.26,1087,Home Purchase,Single,0,Renter,Paid in Full,779,Bachelor,0.0,19527,0
+938,630,25839,Employed,0.202,27558,Personal Expenses,Single,0,Renter,No Previous Loan,6192,Bachelor,0.0,10174,0
+939,661,39552,Employed,0.197,17426,Personal Expenses,Married,1,Owner,Paid in Full,472,Master or above,0.0,16339,1
+940,800,259520,Employed,0.157,5178,Personal Expenses,Single,1,Owner,No Previous Loan,1406,Master or above,0.0,129760,1
+941,619,82529,Self-employed,0.195,36979,Education,Single,4,Renter,No Previous Loan,681,Bachelor,0.0,31928,0
+942,800,132416,Employed,0.326,21141,Car Purchase,Married,2,Living with Parents,Paid in Full,4076,Master or above,0.0,66208,1
+943,546,44917,Self-employed,0.207,3042,Home Purchase,Married,1,Renter,Paid in Full,613,Master or above,0.0,15327,0
+944,710,49074,Employed,0.202,18733,Personal Expenses,Single,1,Living with Parents,Paid in Full,97,Bachelor,0.0,21776,1
+945,630,48855,Employed,0.1,22782,Education,Single,0,Renter,No Previous Loan,2656,High School,0.0,19236,0
+946,551,53517,Self-employed,0.247,29743,Car Purchase,Single,0,Renter,Paid in Full,517,High School,0.0,18429,0
+947,479,19662,Self-employed,0.332,15466,Home Purchase,Single,0,Renter,No Previous Loan,1939,High School,0.0,5886,0
+948,551,100242,Employed,0.238,2518,Home Purchase,Single,2,Renter,No Previous Loan,2290,High School,0.0,34520,1
+949,716,174305,Employed,0.236,15897,Education,Single,0,Renter,Paid in Full,730,Master or above,1125.8155297261771,76875,1
+950,686,24954,Employed,0.133,17405,Car Purchase,Married,2,Renter,No Previous Loan,2503,Bachelor,0.0,10699,1
+951,800,48556,Self-employed,0.26,3542,Personal Expenses,Married,1,Owner,Paid in Full,739,High School,0.0,24278,1
+952,713,40374,Employed,0.1,34797,Education,Single,3,Renter,No Previous Loan,202,High School,0.0,17991,1
+953,448,36681,Employed,0.143,3105,Car Purchase,Single,1,Renter,Defaulted,318,Master or above,1324.315110370141,8946,0
+954,678,0,Unemployed,0.199,6370,Personal Expenses,Single,0,Renter,Paid in Full,650,High School,879.3255201071507,0,0
+955,502,30408,Employed,0.1,13595,Personal Expenses,Single,0,Renter,Paid in Full,3785,Master or above,0.0,9540,0
+956,624,0,Unemployed,0.293,11142,Home Purchase,Single,2,Renter,Paid in Full,390,High School,0.0,0,0
+957,722,37537,Employed,0.227,9196,Education,Single,0,Owner,No Previous Loan,958,High School,0.0,16938,1
+958,651,0,Unemployed,0.156,24923,Personal Expenses,Single,1,Renter,Paid in Full,1876,Master or above,0.0,0,0
+959,529,64066,Employed,0.1,9359,Personal Expenses,Single,1,Renter,No Previous Loan,1051,High School,0.0,21181,1
+960,702,19798,Self-employed,0.1,11563,Education,Single,1,Renter,Defaulted,597,Bachelor,906.4190993473001,7779,0
+961,465,80717,Employed,0.315,5723,Home Purchase,Single,0,Renter,No Previous Loan,943,High School,0.0,23458,1
+962,708,75832,Self-employed,0.14,3097,Personal Expenses,Single,2,Renter,No Previous Loan,8328,Master or above,0.0,33555,1
+963,718,179034,Self-employed,0.1,16398,Home Purchase,Married,4,Renter,Paid in Full,296,High School,0.0,80341,1
+964,464,50370,Employed,0.315,11587,Education,Single,0,Living with Parents,Defaulted,263,Bachelor,67352.01542520973,0,0
+965,520,35083,Self-employed,0.286,1571,Car Purchase,Married,3,Living with Parents,No Previous Loan,321,Master or above,0.0,11401,0
+966,653,76379,Employed,0.151,6758,Education,Married,2,Renter,Defaulted,3528,High School,77302.81464329385,0,0
+967,606,84421,Employed,0.276,47878,Home Purchase,Married,1,Renter,No Previous Loan,1130,Bachelor,0.0,31974,1
+968,800,30958,Employed,0.254,130572,Education,Single,3,Owner,No Previous Loan,400,High School,0.0,15479,1
+969,646,208211,Self-employed,0.289,3155,Home Purchase,Married,2,Renter,No Previous Loan,1345,Master or above,0.0,84065,1
+970,629,129644,Self-employed,0.228,51396,Home Purchase,Single,1,Owner,No Previous Loan,1524,High School,0.0,50966,0
+971,584,30892,Employed,0.368,14917,Education,Single,1,Renter,No Previous Loan,611,High School,0.0,11275,0
+972,486,58022,Employed,0.175,78250,Home Purchase,Married,1,Renter,No Previous Loan,837,High School,0.0,17624,0
+973,561,65292,Employed,0.377,21805,Home Purchase,Married,1,Renter,No Previous Loan,1523,Bachelor,0.0,22893,0
+974,632,0,Unemployed,0.225,23037,Car Purchase,Married,2,Owner,No Previous Loan,236,High School,0.0,0,0
+975,652,0,Unemployed,0.151,7494,Car Purchase,Single,0,Owner,No Previous Loan,1226,High School,0.0,0,0
+976,800,93316,Self-employed,0.149,9368,Education,Married,3,Renter,No Previous Loan,822,High School,0.0,46658,1
+977,594,97297,Self-employed,0.1,10488,Car Purchase,Married,2,Living with Parents,Paid in Full,515,Bachelor,0.0,36121,0
+978,800,74575,Employed,0.318,10783,Home Purchase,Married,2,Owner,No Previous Loan,824,Bachelor,0.0,37287,1
+979,706,75962,Self-employed,0.275,27029,Home Purchase,Single,1,Owner,No Previous Loan,1238,High School,0.0,33518,1
+980,496,83229,Self-employed,0.1,69426,Personal Expenses,Married,1,Renter,No Previous Loan,3795,High School,0.0,25800,0
+981,626,27355,Employed,0.222,3986,Home Purchase,Married,1,Renter,Defaulted,496,High School,23748.372210120175,0,0
+982,795,48777,Employed,0.18,18201,Home Purchase,Single,0,Living with Parents,No Previous Loan,365,Master or above,0.0,24236,1
+983,682,51042,Employed,0.1,92098,Personal Expenses,Married,1,Renter,Paid in Full,3398,Bachelor,708.894754692013,21047,1
+984,753,54929,Employed,0.208,5074,Personal Expenses,Single,1,Living with Parents,Paid in Full,11716,Bachelor,0.0,25850,1
+985,776,39543,Self-employed,0.1,13321,Personal Expenses,Single,0,Owner,No Previous Loan,1428,High School,0.0,19178,1
+986,800,54439,Employed,0.247,71884,Home Purchase,Single,3,Renter,Paid in Full,86,High School,1202.212753006973,26017,1
+987,489,50404,Employed,0.196,18126,Education,Married,5,Living with Parents,No Previous Loan,608,Bachelor,0.0,15404,0
+988,680,131042,Employed,0.351,17871,Home Purchase,Single,1,Renter,No Previous Loan,342,High School,0.0,55692,0
+989,610,0,Unemployed,0.1,3622,Education,Single,1,Renter,Defaulted,675,Bachelor,35763.859221304665,0,0
+990,697,71822,Employed,0.187,12063,Car Purchase,Single,0,Living with Parents,No Previous Loan,5193,Master or above,0.0,31287,1
+991,715,37792,Self-employed,0.1,5989,Car Purchase,Divorced,0,Renter,No Previous Loan,343,Bachelor,0.0,16888,1
+992,602,135584,Employed,0.255,17591,Education,Single,2,Renter,No Previous Loan,543,Bachelor,0.0,51013,1
+993,800,69758,Employed,0.204,43406,Home Purchase,Single,1,Owner,No Previous Loan,14568,Bachelor,0.0,34879,1
+994,611,123733,Employed,0.136,5703,Education,Married,2,Owner,No Previous Loan,440,Master or above,0.0,47250,1
+995,800,43315,Employed,0.249,63577,Car Purchase,Single,1,Renter,Paid in Full,1144,Master or above,0.0,21657,1
+996,664,0,Unemployed,0.253,6876,Car Purchase,Married,1,Living with Parents,No Previous Loan,630,Bachelor,0.0,0,0
+997,574,0,Unemployed,0.1,24930,Education,Divorced,2,Renter,No Previous Loan,861,Master or above,0.0,0,0
+998,603,23962,Employed,0.338,15358,Personal Expenses,Married,2,Owner,Defaulted,240,High School,23422.620958076375,0,0
+999,679,0,Unemployed,0.14,9476,Car Purchase,Married,3,Renter,Paid in Full,1082,High School,0.0,0,0
